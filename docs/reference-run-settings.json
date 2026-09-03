@@ -1,0 +1,174 @@
+{
+  "force_parametric": true,
+  "fixed_mass_override_kg": null,
+  "max_auw_kg": 10.0,
+  "min_twr": 1.8,
+  "pack_overhead_fraction": 0.1,
+  "esc_current_margin": 1.15,
+  "rpm_data_tolerance": 0.1,
+  "search_depth": "thorough",
+  "search_profile": {
+    "motor_candidates": 36,
+    "prop_candidates": 18,
+    "finalist_configs": 60,
+    "finalists_per_motor": 6,
+    "finalists_per_prop": 12,
+    "guide_results": 60,
+    "battery_choices_per_guide": 10,
+    "max_real_solves": 500
+  },
+  "budget_mode": "off",
+  "max_budget_usd": null,
+  "frame_model": {
+    "material": "Carbon fiber",
+    "prop_clearance_mm": 50.0,
+    "structural_margin": 1.25,
+    "effective_modulus_gpa": 60.0,
+    "allowable_bending_mpa": 300.0,
+    "max_arm_deflection_ratio": 0.01,
+    "tube_candidates_mm": [
+      [
+        12,
+        1.0
+      ],
+      [
+        14,
+        1.0
+      ],
+      [
+        16,
+        1.0
+      ],
+      [
+        16,
+        1.5
+      ],
+      [
+        18,
+        1.0
+      ],
+      [
+        18,
+        1.5
+      ],
+      [
+        20,
+        1.0
+      ],
+      [
+        20,
+        1.5
+      ],
+      [
+        22,
+        1.0
+      ],
+      [
+        22,
+        1.5
+      ],
+      [
+        22,
+        2.0
+      ],
+      [
+        25,
+        1.0
+      ],
+      [
+        25,
+        1.5
+      ],
+      [
+        25,
+        2.0
+      ],
+      [
+        28,
+        1.5
+      ],
+      [
+        28,
+        2.0
+      ],
+      [
+        30,
+        1.5
+      ],
+      [
+        30,
+        2.0
+      ]
+    ],
+    "center_plate_thickness_mm": 2.0,
+    "battery_tray_thickness_mm": 1.5
+  },
+  "planning_costs": {
+    "frame_usd": 220.0,
+    "diy_camera_avionics_usd": 700.0,
+    "fixed_total_usd": 920.0,
+    "fallback_propulsion_usd": {
+      "motors": 180.0,
+      "props": 70.0,
+      "battery": 250.0,
+      "escs": 160.0
+    }
+  },
+  "decision_weights": {
+    "cost": 35.0,
+    "endurance": 25.0,
+    "weight": 17.0,
+    "quality": 13.0,
+    "complexity": 10.0
+  },
+  "data_snapshot": {
+    "warehouse_path": "C:\\Users\\Campbell\\Documents\\PyThrust\\component_data\\component_warehouse.sqlite",
+    "modified_utc": "2026-09-03T00:24:30+00:00",
+    "tables": {
+      "motors_master": {
+        "source_rows": 28088,
+        "canonical_parts": 27855,
+        "warehouse_optimizer_eligible_rows": 7243
+      },
+      "props_master": {
+        "source_rows": 2073,
+        "canonical_parts": 2073,
+        "warehouse_optimizer_eligible_rows": 441
+      },
+      "battery_cells_master": {
+        "source_rows": 1216,
+        "canonical_parts": 1001,
+        "warehouse_optimizer_eligible_rows": 395
+      },
+      "battery_packs_master": {
+        "source_rows": 979,
+        "canonical_parts": 963,
+        "warehouse_optimizer_eligible_rows": 0
+      },
+      "escs_master": {
+        "source_rows": 436,
+        "canonical_parts": 424,
+        "warehouse_optimizer_eligible_rows": 29
+      }
+    }
+  },
+  "parametric_source_csv": "C:\\Users\\Campbell\\Documents\\PyThrust\\optimizer_results\\fast_real_motor_prop_price_screening\\guide_search_designs.csv",
+  "physical_pool_reused": false,
+  "timing_s": {
+    "guide": 1736.38,
+    "cached_explore": 1.18,
+    "exact_validation": 7.15
+  },
+  "cached_explore_evaluations": 500,
+  "exact_validation_attempts": 109,
+  "exact_valid_designs": 109,
+  "propulsion_cache": {
+    "hits": 500,
+    "misses": 0,
+    "new_curves_built": 0,
+    "cache_path": "C:\\Users\\Campbell\\Documents\\PyThrust\\component_data\\propulsion_performance_cache.sqlite"
+  },
+  "physical_pool_key": "43e24c65d0d440695f97b205d4ecf5fa662d90ca8b08d2ab2b7fdc79b2ee08f8",
+  "valid_real_designs": 109,
+  "elapsed_s": 1752.9
+}

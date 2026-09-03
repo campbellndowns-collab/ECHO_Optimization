@@ -1,0 +1,20 @@
+{
+  "warehouse_path": "component_data/component_warehouse.sqlite",
+  "builder_path": "tools/build_component_data_warehouse.py",
+  "detailed_optimizer_path": "examples/quadrotor_integrated_real_component_optimizer.py",
+  "default_constraints": {
+    "fixed_mass_kg": 1.0,
+    "max_auw_kg": 10.0,
+    "min_thrust_weight": 1.8,
+    "budget_usd": 1000.0,
+    "min_prop_in": 12.0,
+    "max_prop_in": 22.0,
+    "pack_mass_overhead_fraction": 0.1
+  },
+  "legacy_optimizer_path": "examples/quadrotor_fast_adaptive_optimization.py",
+  "results_path": "optimizer_results/drone_optimizer_integrated/integrated_real_component_results.csv",
+  "summary_path": "optimizer_results/drone_optimizer_integrated/RUN_SUMMARY.txt",
+  "pareto_path": "optimizer_results/drone_optimizer_integrated/pareto_frontier.csv",
+  "rejection_path": "optimizer_results/drone_optimizer_integrated/rejection_summary.csv",
+  "exception_path": "optimizer_results/drone_optimizer_integrated/exception_details.csv"
+}

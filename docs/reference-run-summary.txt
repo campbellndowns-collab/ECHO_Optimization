@@ -1,0 +1,49 @@
+INTEGRATED REAL-COMPONENT OPTIMIZER
+
+Valid detailed designs: 109
+Pareto-front designs: 5
+
+TOP WEIGHTED DECISION-MATRIX DESIGN
+  Matrix score: 91.0/100
+  Estimated total cost: $1572.36
+  Endurance: 79.1 min
+  AUW: 4.144 kg
+  Quality score: 91.8/100
+  Buildability score: 64.1/100
+  Motor: NeuMotors 4610MC-207
+  Prop: 19x10E
+  Battery: Molicel INR-21700-M65A 6S4P
+  ESC: HOBBYWING XRotor Pro H60A 6S BLDC Specifications Input Voltage 4-6S
+
+DEFAULT DECISION WEIGHTS
+  Cost: 35%
+  Endurance: 25%
+  Aircraft weight: 17%
+  Design quality / robustness: 13%
+  Complexity / buildability: 10%
+
+BEST ENDURANCE
+  Endurance: 83.6 min
+  AUW: 4.651 kg
+  Motor: NeuMotors 4610MC-264
+  Prop: 18x5.5MR (18.00x5.50)
+  Battery: Molicel INR-21700-M65A 6S5P
+  ESC: HOBBYWING XRotor Pro H60A 6S BLDC Specifications Input Voltage 4-6S
+  T/W: 2.16
+  Known cost: $48.64 (25% of propulsion categories costed)
+
+LIGHTEST DESIGN >= 45 MIN
+  Endurance: 67.6 min
+  AUW: 3.460 kg
+  Motor: SunnySky V4006 KV380 4-6S
+  Prop: 18x5.5MR
+  Battery: Molicel INR-21700-P60C 4S5P
+  ESC: HOBBYWING XRotor 20A ESC
+
+MODEL LIMITATIONS
+  Battery voltage sag / SOC-dependent resistance are not yet modeled.
+  Frame arms are concept-sized from carbon-tube stress/deflection; center/joint details still require CAD/FEA.
+  Decision cost includes $220 frame + $700 DIY camera/avionics planning allowances.
+  Missing propulsion prices use explicit fallback estimates and are labeled in the matrix.
+  Prop structural RPM limits are not available for all props.
+  Cost is explicitly coverage-tracked; unknown costs are not silently treated as $0.

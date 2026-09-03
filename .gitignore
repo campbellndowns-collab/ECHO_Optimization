@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.log
+
+# Node / frontend (future)
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+
+# OpenMDAO / solver scratch
+**/_openmdao_temp/
+**/reports/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ---------------------------------------------------------------------------
+# PRIVATE runtime data — do not commit full warehouse, caches, or raw sources
+# ---------------------------------------------------------------------------
+# Canonical private store (preferred location for local/dev runtime data)
+/data/private/**
+!/data/private/README.md
+!/data/private/.gitkeep
+
+# Paths expected by the v0.7 overlay when run from legacy/streamlit/
+/legacy/streamlit/component_data/**
+!/legacy/streamlit/component_data/README.md
+/legacy/streamlit/optimizer_results/**
+!/legacy/streamlit/optimizer_results/README.md
+/legacy/streamlit/jobs/
+/legacy/streamlit/pythrust/
+/legacy/streamlit/.venv/
+
+# Common private database / cache filenames anywhere in the tree
+**/component_warehouse.sqlite
+**/propulsion_performance_cache.sqlite
+**/physical_design_pool.csv
+**/physical_design_pool_metadata.json
+
+# Accidental local dumps
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+agent-tools/
+ECHO_Optimization-source.zip
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
