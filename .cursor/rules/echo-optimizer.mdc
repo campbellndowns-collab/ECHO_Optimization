@@ -1,0 +1,18 @@
+---
+description: ECHO Optimization Cloud Agent working rules
+alwaysApply: true
+---
+
+# ECHO Optimization
+
+This is a migration of Drone Optimizer v0.7. Treat v0.7 numerical behavior as the reference.
+
+- Do not rewrite formulas, constraints, scoring, cache invalidation, or lock behavior in `optimizer/`.
+- Do not `pip install pythrust` from PyPI. Use the local `legacy/streamlit/pythrust` package (setuav-pythrust 0.2.2).
+- Do not commit private data: `component_warehouse.sqlite`, propulsion caches, `legacy/streamlit/pythrust/`, `data/private/**`, `.venv`, `node_modules`.
+- Each Cloud Agent must work on its own branch. Do not force-push `main`. Do not reuse another agent's branch.
+- Tagline copy: "Lock what you know. Optimize what you don't."
+
+Data root: `DRONE_OPTIMIZER_DATA_ROOT` (default `legacy/streamlit`).
+API: `127.0.0.1:43127`. UI: `127.0.0.1:43128`.
+See `docs/cloud-agents.md`.

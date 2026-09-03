@@ -1,0 +1,32 @@
+# Local compose stack (development-oriented).
+# Private data must be mounted read-only from the host.
+
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.api
+    ports:
+      - "43127:43127"
+    environment:
+      DRONE_OPTIMIZER_DATA_ROOT: /data
+    volumes:
+      - ${DRONE_OPTIMIZER_DATA_ROOT:-../legacy/streamlit}:/data:ro
+      - optimizer_jobs:/data/jobs
+    command: >
+      uvicorn backend.app.main:app
+      --host 0.0.0.0 --port 43127
+
+  web:
+    build:
+      context: ../frontend
+      dockerfile: ../docker/Dockerfile.web
+    ports:
+      - "43128:43128"
+    environment:
+      NEXT_PUBLIC_API_BASE: http://127.0.0.1:43127
+    depends_on:
+      - api
+
+volumes:
+  optimizer_jobs:

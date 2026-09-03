@@ -1,0 +1,844 @@
+product_name,sku,price_usd,status,pitch_in,diameter_in,weight_g,categories
+4.1x4.1E,LP04141E,2.55,In Stock,4.1,4.1,3.129771,"Multi Rotor (Electric Only), Speed 400 (Electric Only)"
+4.1x4.1EP,LP04141EP,2.55,In Stock,4.1,4.1,3.129771,"Multi Rotor (Electric Only), Speed 400 (Electric Only), Speed 400 Reverse Rotation (Left Hand Rotation)"
+4.2x2,LP04220,2.6,In Stock,2.0,4.2,3.129771,Sport
+4.2x4,LP04240,2.6,In Stock,4.0,4.2,3.129771,"Free Flight, Sport"
+4.4x4,LP04440,2.6,In Stock,4.0,4.4,3.991592,"Free Flight, Sport"
+4.5x3.5,LP04535,2.6,In Stock,3.5,4.5,3.991592,"Pylon Combat, 1/2A Pylon Combat"
+4.5x4,LP04540,2.6,In Stock,4.0,4.5,3.991592,"Pylon Combat, 1/2A Pylon Combat"
+4.5x4.1E,LP04541E,2.55,In Stock,4.1,4.5,3.991592,Speed 400 (Electric Only)
+4.6x3,LP04630,2.6,Discontinued,3.0,4.6,5.125566999999999,"Pylon Combat, 1/2A Pylon Combat"
+4.7x4.2E,LP04742E,2.55,In Stock,4.2,4.7,3.129771,Speed 400 (Electric Only)
+4.75x4.5E,LP04745E,2.55,In Stock,4.5,4.75,3.991592,Speed 400 (Electric Only)
+4.75x4.5EC,LP04745EC,7.8,In Stock,4.5,4.75,3.129771,"Speed 400 (Electric Only), Carbon Fiber (Electric Only)"
+4.75x4.75E,LP04747E,2.55,In Stock,4.75,4.75,3.991592,"Multi Rotor (Electric Only), Speed 400 (Electric Only)"
+4.75x4.75EC,LP04747EC,7.8,In Stock,4.75,4.75,3.129771,"Speed 400 (Electric Only), Carbon Fiber (Electric Only)"
+4.75x4.75EP,LP04747EP,2.55,In Stock,4.75,4.75,3.991592,"Multi Rotor (Electric Only), Speed 400 (Electric Only), Speed 400 Reverse Rotation (Left Hand Rotation)"
+4.75x4,LP04754,2.6,In Stock,4.0,4.75,5.942029,"Pylon Combat, 1/2A Pylon Combat"
+4.75x5.5E,LP04755E,2.55,In Stock,5.5,4.75,3.991592,Speed 400 (Electric Only)
+5x11E,LP05011E,2.67,In Stock,11.0,5.0,4.989489999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only)"
+5x11EP,LP05011EP,2.67,In Stock,11.0,5.0,4.989489999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Speed 400 Reverse Rotation (Left Hand Rotation)"
+5x3,LP05030,2.6,In Stock,3.0,5.0,5.942029,"Free Flight, Sport"
+5x3E,LP05030E,2.55,In Stock,3.0,5.0,3.129771,"Thin Electric, Multi Rotor (Electric Only)"
+5x3E-B4,LP05030E-B4,5.63,Discontinued,3.0,5.0,12.519084,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle"
+5x3EP,LP05030EP,2.55,In Stock,3.0,5.0,3.129771,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation)"
+5x4R-LH,LP05040R-LH,3.12,In Stock,4.0,5.0,7.983184,"Multi Rotor (Electric Only), 3D - Reversible ESC"
+5x4R-RH,LP05040R-RH,3.12,In Stock,4.0,5.0,7.983184,"Multi Rotor (Electric Only), 3D - Reversible ESC"
+5x4.1SF,LP05041SF,2.45,In Stock,4.1,5.0,1.995796,Indoor 3D
+5x4.5E-B4,LP05045E-B4,5.63,Discontinued,4.5,5.0,19.957959999999996,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle"
+5x5E,LP05050E,2.55,In Stock,5.0,5.0,3.991592,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only)"
+5x5EP,LP05050EP,2.55,In Stock,5.0,5.0,3.991592,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Speed 400 Reverse Rotation (Left Hand Rotation)"
+5x5F,LP05050F,3.52,In Stock,5.0,5.0,3.129771,Folding (Electric Only)
+5x5FP,LP05050FP,3.52,In Stock,5.0,5.0,3.129771,Folding (Electric Only)
+5x7.5E,LP05075E,2.67,In Stock,7.5,5.0,4.989489999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only)"
+5x7.5EP,LP05075EP,2.67,In Stock,7.5,5.0,4.989489999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Speed 400 Reverse Rotation (Left Hand Rotation)"
+5.1x4.5E,LP05145E,2.55,In Stock,4.5,5.1,5.125566999999999,Thin Electric
+5.1x5.0E-B4,LP05150E-B4,5.63,In Stock,5.0,5.1,15.966368,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle"
+5.2x6.0E-B4,LP05260E-B4,5.63,In Stock,6.0,5.2,15.966368,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle"
+5.25x4.75E,LP053475E,2.55,In Stock,4.75,5.25,3.991592,Speed 400 (Electric Only)
+5.25x5.5E,LP05355E,2.55,In Stock,5.5,5.25,3.991592,Speed 400 (Electric Only)
+5.25x6.25E,LP053625E,2.55,In Stock,6.25,5.25,3.991592,Speed 400 (Electric Only)
+5.25x6.25EC,LP053625EC,7.8,In Stock,6.25,5.25,3.129771,"Speed 400 (Electric Only), Carbon Fiber (Electric Only)"
+5.25x8E,LP05380E,2.67,In Stock,8.0,5.25,4.989489999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only)"
+5.25x8EP,LP05380EP,2.67,In Stock,8.0,5.25,4.989489999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Speed 400 Reverse Rotation (Left Hand Rotation)"
+5.3x5.9E,LP05359E,2.67,In Stock,5.9,5.3,4.490541,Speed 400 (Electric Only)
+5.5x2,LP05520,2.6,In Stock,2.0,5.5,7.076003999999999,"Free Flight, Sport"
+5.5x2.5,LP05525,2.6,In Stock,2.5,5.5,7.076003999999999,"Free Flight, Sport"
+5.5x4.5E,LP05545E,2.55,In Stock,4.5,5.5,3.991592,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only)"
+5.5x4.5E-B4,LP05545E-B4,5.63,Discontinued,4.5,5.5,15.966368,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle"
+5.5x4.5EP,LP05545EP,2.55,In Stock,4.5,5.5,3.991592,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Speed 400 Reverse Rotation (Left Hand Rotation)"
+5.5x4.7E,LP05547E,2.55,In Stock,4.7,5.5,3.991592,"Thin Electric, Speed 400 (Electric Only)"
+5.5x6.5E,LP05565E,2.55,In Stock,6.5,5.5,3.991592,Speed 400 (Electric Only)
+5.5x6.5EC,LP05565EC,7.8,In Stock,6.5,5.5,3.129771,"Speed 400 (Electric Only), Carbon Fiber (Electric Only)"
+5.5x7.0,LP05570,2.6,In Stock,7.0,5.5,7.983184,Pylon Racing
+5.7x3,LP05730,2.6,In Stock,3.0,5.7,5.125566999999999,"Free Flight, Sport"
+6x2,LP06020,2.67,In Stock,2.0,6.0,7.937825,"Free Flight, Sport"
+6x3,LP06030,2.67,In Stock,3.0,6.0,7.937825,"Free Flight, Sport"
+6x3F,LP06030F,3.63,In Stock,3.0,6.0,3.991592,Folding (Electric Only)
+6x3R-LH,LP06030R-LH,3.35,In Stock,3.0,6.0,7.983184,"Multi Rotor (Electric Only), 3D - Reversible ESC"
+6x3R-RH,LP06030R-RH,3.35,In Stock,3.0,6.0,7.983184,"Multi Rotor (Electric Only), 3D - Reversible ESC"
+6x3.1SF,LP06031SF,2.49,In Stock,3.1,6.0,2.9936939999999996,Indoor 3D
+6x4,LP06040,2.67,In Stock,4.0,6.0,5.125566999999999,Sport
+6x4E,LP06040E,2.59,In Stock,4.0,6.0,5.125566999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only)"
+6x4E-B4,LP06040E-B4,6.05,In Stock,4.0,6.0,20.502267999999997,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle"
+6x4EP,LP06040EP,2.59,In Stock,4.0,6.0,5.125566999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Speed 400 Reverse Rotation (Left Hand Rotation)"
+6x4.1SF,LP06041SF,2.49,In Stock,4.1,6.0,2.9936939999999996,Indoor 3D
+6x4.5E-B4,LP06045E-B4,6.05,Discontinued,4.5,6.0,28.304015999999997,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle"
+6x5,LP06050,2.67,In Stock,5.0,6.0,6.985285999999999,Sport
+6x5.5E,LP06055E,2.59,In Stock,5.5,6.0,5.125566999999999,Thin Electric
+6x6E,LP06060E,2.59,In Stock,6.0,6.0,5.125566999999999,"Thin Electric, Multi Rotor (Electric Only), FPV Racing / Freestyle"
+6x6EP,LP06060EP,2.59,In Stock,6.0,6.0,5.125566999999999,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation), FPV Racing / Freestyle"
+6.3x4,LP06340,2.72,In Stock,4.0,6.3,11.067596,Pylon Combat
+6.5x2.9,LP06529,2.72,In Stock,2.9,6.5,11.067596,Free Flight
+6.5x3.7,LP06537,2.72,In Stock,3.7,6.5,11.067596,Pylon Combat
+6.5x5.0,LP06550,2.72,In Stock,5.0,6.5,11.067596,Pylon Racing
+6.5x5.5,LP06555,2.72,In Stock,5.5,6.5,11.067596,Pylon Racing
+6.5x6.0,LP06560,2.72,In Stock,6.0,6.5,11.067596,Pylon Racing
+6.5x6.5,LP06565,2.72,In Stock,6.5,6.5,11.067596,Pylon Racing
+6.5x7.0,LP06570,2.72,In Stock,7.0,6.5,11.067596,Pylon Racing
+6.5x7.5,LP06575,2.72,In Stock,7.5,6.5,11.067596,Pylon Racing
+7x10,LP07010,2.78,In Stock,10.0,7.0,13.063391999999999,Sport
+7x11E,LP07011E,2.86,In Stock,11.0,7.0,9.978979999999998,"Thin Electric, Multi Rotor (Electric Only), FPV Racing / Freestyle"
+7x11EP,LP07011EP,2.86,In Stock,11.0,7.0,9.978979999999998,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation), FPV Racing / Freestyle"
+7x15E,LP07015E,2.86,In Stock,15.0,7.0,9.978979999999998,"Thin Electric, Multi Rotor (Electric Only), FPV Racing / Freestyle"
+7x15EP,LP07015EP,2.86,In Stock,15.0,7.0,9.978979999999998,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation), FPV Racing / Freestyle"
+7x3,LP07030,2.78,In Stock,3.0,7.0,11.929416999999999,"Free Flight, Sport"
+7x3.8WSF,LP07038WSF,2.59,In Stock,3.8,7.0,7.076003999999999,Slow Fly (Electric Only)
+7x4,LP07040,2.78,In Stock,4.0,7.0,11.929416999999999,"Free Flight, Sport"
+7x4E,LP07040E,2.71,In Stock,4.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only)"
+7x4E(HEXO),LP07040E(HEXO),6.24,Discontinued,4.0,7.0,15.87565,"Self Tightening, Black MR"
+7x4E-B4,LP07040E-B4,7.06,In Stock,4.0,7.0,31.932736,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle"
+7x4EP,LP07040EP,2.71,In Stock,4.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation)"
+7x4EP(HEXO),LP07040EP(HEXO),6.24,Discontinued,4.0,7.0,15.87565,"Self Tightening, Black MR"
+7x4F,LP07040F,3.84,In Stock,4.0,7.0,5.125566999999999,Folding (Electric Only)
+7x4SF,LP07040SF,2.59,In Stock,4.0,7.0,5.125566999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+7x4SF-B4,LP07040SF-B4,7.49,In Stock,4.0,7.0,20.502267999999997,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+7x4SFP,LP07040SFP,2.59,In Stock,4.0,7.0,5.125566999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+7x4.1SF,LP07041SF,2.59,In Stock,4.1,7.0,3.4926429999999997,Indoor 3D
+7x5,LP07050,2.78,In Stock,5.0,7.0,11.067596,Sport
+7x5E,LP07050E,2.71,In Stock,5.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only)"
+7x5E-B4,LP07050E-B4,7.06,In Stock,5.0,7.0,31.932736,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle"
+7x5EP,LP07050EP,2.71,In Stock,5.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation)"
+7x5SF,LP07050SF,2.59,In Stock,5.0,7.0,5.125566999999999,Slow Fly (Electric Only)
+7x6,LP07060,2.78,In Stock,6.0,7.0,13.063391999999999,Sport
+7x6E,LP07060E,2.71,In Stock,6.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only)"
+7x6EP,LP07060EP,2.71,In Stock,6.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation)"
+7x6F,LP07060F,3.84,In Stock,6.0,7.0,5.125566999999999,Folding (Electric Only)
+7x6P,LP07060P,2.78,In Stock,6.0,7.0,13.063391999999999,"Sport, Pusher (for IC Engines)"
+7x6SF,LP07060SF,2.59,In Stock,6.0,7.0,5.125566999999999,Slow Fly (Electric Only)
+7x6W,LP07060W,2.84,In Stock,6.0,7.0,13.063391999999999,Pylon Racing
+7x7,LP07070,2.78,In Stock,7.0,7.0,13.063391999999999,Sport
+7x7E,LP07070E,2.71,In Stock,7.0,7.0,7.983184,Thin Electric
+7x8,LP07080,2.78,In Stock,8.0,7.0,13.063391999999999,Sport
+7x9,LP07090,2.78,In Stock,9.0,7.0,13.063391999999999,Sport
+7x9E,LP07090E,2.86,In Stock,9.0,7.0,9.978979999999998,"Thin Electric, Multi Rotor (Electric Only), FPV Racing / Freestyle"
+7x9EP,LP07090EP,2.86,In Stock,9.0,7.0,9.978979999999998,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation), FPV Racing / Freestyle"
+7.4x7.5C,LP07475C,12.0,In Stock,7.5,7.4,15.87565,"Carbon Fiber, AMA 422 (Q40)"
+7.4x7.6C,LP07476C,12.0,In Stock,7.6,7.4,15.87565,"Carbon Fiber, AMA 422 (Q40)"
+7.4x7.7C,LP07477C,12.0,In Stock,7.7,7.4,15.87565,"Carbon Fiber, AMA 422 (Q40)"
+7.4x7.81C,LP074781C,12.0,Discontinued,7.81,7.4,15.87565,"Carbon Fiber, AMA 422 (Q40)"
+7.4x7.8C,LP07478C,12.0,Discontinued,7.8,7.4,15.87565,"Carbon Fiber, AMA 422 (Q40)"
+7.4x8.0C,LP07480C,12.0,Discontinued,8.0,7.4,15.87565,"Carbon Fiber, AMA 422 (Q40)"
+7.4x8.1C,LP07481C,12.0,Discontinued,8.1,7.4,15.013828999999998,"Carbon Fiber, AMA 422 (Q40)"
+7.4x8.25C,LP074825C,12.0,Discontinued,8.25,7.4,15.013828999999998,"Carbon Fiber, AMA 422 (Q40)"
+7.5x2.5,LP07525,3.06,Discontinued,2.5,7.5,12.020135,Combat
+7.5x8C,LP07580C,12.0,Discontinued,8.0,7.5,15.013828999999998,"Pylon Racing, Carbon Fiber"
+7.625x3.25,LP0763325,3.06,In Stock,3.25,7.625,11.067596,Free Flight
+7.8x4,LP07840,3.06,In Stock,4.0,7.8,17.871446,"Free Flight, Pylon Combat"
+7.8x4C,LP07840C,18.0,Discontinued,4.0,7.8,13.879853999999998,"Combat, Carbon Fiber"
+7.8x6,LP07860,3.06,In Stock,6.0,7.8,17.871446,Pylon Combat
+7.8x6C,LP07860C,18.0,Discontinued,6.0,7.8,13.879853999999998,"Combat, Carbon Fiber"
+7.8x7,LP07870,3.06,In Stock,7.0,7.8,17.871446,Pylon Combat
+7.8x7C,LP07870C,18.0,Discontinued,7.0,7.8,13.879853999999998,"Combat, Carbon Fiber"
+8x10,LP08010,3.0,In Stock,10.0,8.0,19.005421,Sport
+8x10E,LP08010E,2.92,In Stock,10.0,8.0,15.013828999999998,Thin Electric
+8x3.75,LP08037,3.06,In Stock,3.75,8.0,17.009625,Free Flight
+8x3.75W,LP08037W,3.06,Discontinued,3.75,8.0,20.139396,Free Flight
+8x3.8SF,LP08038SF,2.78,In Stock,3.8,8.0,7.076003999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+8x3.8SF-B4,LP08038SF-B4,8.89,In Stock,3.8,8.0,28.304015999999997,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+8x3.8SFP,LP08038SFP,2.78,In Stock,3.8,8.0,7.076003999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+8x4,LP08040,3.0,In Stock,4.0,8.0,15.87565,Sport
+8x4E,LP08040E,2.92,In Stock,4.0,8.0,13.018032999999999,Thin Electric
+8x4F,LP08040F,4.12,In Stock,4.0,8.0,7.937825,Folding (Electric Only)
+8x4.1SF,LP08041SF,2.78,In Stock,4.1,8.0,4.490541,Indoor 3D
+8x4.2SFR,LP08042SFR,2.78,In Stock,4.2,8.0,4.989489999999999,"Indoor 3D, Reversible ESC (Slow Fly)"
+8x4.5MR,LP08045MR,2.68,In Stock,4.5,8.0,9.0718,Multi Rotor (Electric Only)
+8x4.5MR(ST),LP08045MR(ST),3.0,In Stock,4.5,8.0,11.022236999999999,Self Tightening
+8x4.5MR-B4,LP08045MR-B4,8.56,In Stock,4.5,8.0,36.2872,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+8x4.5MRP,LP08045MRP,2.68,In Stock,4.5,8.0,9.0718,Multi Rotor (Electric Only)
+8x4.5MRP(ST),LP08045MRP(ST),3.0,In Stock,4.5,8.0,11.022236999999999,Self Tightening
+8x4.7SF,LP08047SF,2.78,In Stock,4.7,8.0,7.076003999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+8x4.7SF-B4,LP08047SF-B4,8.89,In Stock,4.7,8.0,28.304015999999997,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+8x4.7SFP,LP08047SFP,2.78,In Stock,4.7,8.0,7.076003999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+8x5,LP08050,3.0,In Stock,5.0,8.0,19.005421,Sport
+8x6,LP08060,3.0,In Stock,6.0,8.0,19.005421,"Sport, Control Line"
+8x6E,LP08060E,2.92,In Stock,6.0,8.0,14.015931,Thin Electric
+8x6EP,LP08060EP,2.92,In Stock,6.0,8.0,14.015931,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+8x6SF,LP08060SF,2.78,In Stock,6.0,8.0,7.076003999999999,Slow Fly (Electric Only)
+8x7,LP08070,3.0,In Stock,7.0,8.0,19.005421,Sport
+8x7.3,LP08073,4.48,In Stock,7.3,8.0,24.94745,Pylon Racing
+8x8,LP08080,3.0,In Stock,8.0,8.0,19.005421,Sport
+8x8E,LP08080E,2.92,In Stock,8.0,8.0,15.013828999999998,Thin Electric
+8x8EP,LP08080EP,2.92,In Stock,8.0,8.0,15.013828999999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+8x9,LP08090,3.0,In Stock,9.0,8.0,19.005421,Sport
+8.5x5.0,LP08550,4.48,Discontinued,5.0,8.5,17.009625,Pylon Racing
+8.5x5.5,LP08555,4.48,Discontinued,5.5,8.5,20.139396,Pylon Racing
+8.5x6.5,LP08565,4.48,Discontinued,6.5,8.5,20.139396,Pylon Racing
+8.5x7.0,LP08570,4.48,Discontinued,7.0,8.5,26.943246,Pylon Racing
+8.5x7.25,LP085725,4.48,Discontinued,7.25,8.5,26.943246,Pylon Racing
+8.5x7.5,LP08575,4.48,Discontinued,7.5,8.5,28.077220999999998,Pylon Racing
+8.625x3.75,LP0863375,3.35,In Stock,3.75,8.625,21.001217,Free Flight
+8.75x5.0,LP08850,3.35,In Stock,5.0,8.75,28.077220999999998,Pylon Combat
+8.75x7.0N,LP08870N,4.48,In Stock,7.0,8.75,28.077220999999998,Pylon Racing
+8.75x7.0NN,LP08870NN,4.48,Discontinued,7.0,8.75,26.081425,Pylon Racing
+8.75x7.5N,LP08875N,4.48,In Stock,7.5,8.75,28.077220999999998,Pylon Racing
+8.75x7.5NN,LP08875NN,4.48,In Stock,7.5,8.75,28.939041999999997,Pylon Racing
+8.75x7.5W,LP08875W,4.48,In Stock,7.5,8.75,24.94745,Pylon Racing
+8.75x7.75N,LP088775N,4.48,Discontinued,7.75,8.75,28.077220999999998,Pylon Racing
+8.75x7.75NN,LP088775NN,4.48,In Stock,7.75,8.75,24.94745,Pylon Racing
+8.75x7.75W,LP088775W,4.48,Discontinued,7.75,8.75,26.081425,Pylon Racing
+8.75x8.0N,LP08880N,4.48,Discontinued,8.0,8.75,28.939041999999997,Pylon Racing
+8.75x8.0NN,LP08880NN,4.48,In Stock,8.0,8.75,28.939041999999997,Pylon Racing
+8.75x8.0W,LP08880W,4.48,Discontinued,8.0,8.75,26.081425,Pylon Racing
+8.75x8.25N,LP088825N,4.48,Discontinued,8.25,8.75,28.939041999999997,AMA 426 (Q500)
+8.75x8.25NN,LP088825NN,4.48,In Stock,8.25,8.75,24.94745,Pylon Racing
+8.75x8.25W,LP088825W,4.48,Discontinued,8.25,8.75,24.94745,Pylon Racing
+8.8x8.5,LP088850,4.48,In Stock,8.5,8.8,24.94745,Pylon Racing
+8.75x8.5N,LP08885N,4.48,In Stock,8.5,8.75,28.077220999999998,AMA 426 (Q500)
+8.75x8.5NN,LP08885NN,4.48,Discontinued,8.5,8.75,24.94745,Pylon Racing
+8.75x8.5W,LP08885W,4.48,Discontinued,8.5,8.75,24.94745,Pylon Racing
+8.8x8.75,LP088875,4.48,In Stock,8.75,8.8,26.943246,AMA 426 (Q500)
+8.75x8.75NN,LP088875NN,4.48,In Stock,8.75,8.75,24.94745,Pylon Racing
+8.75x8.75W,LP088875W,4.48,In Stock,8.75,8.75,24.94745,Pylon Racing
+8.8x8.9,LP088890,4.48,In Stock,8.9,8.8,26.081425,AMA 426 (Q500)
+8.8x9.0,LP088900,4.48,In Stock,9.0,8.8,26.081425,AMA 426 (Q500)
+8.75x9.0NN,LP08890NN,4.48,In Stock,9.0,8.75,26.081425,Pylon Racing
+8.75x9.0W,LP08890W,4.48,In Stock,9.0,8.75,26.081425,Pylon Racing
+8.8x9.25,LP088925,4.48,In Stock,9.25,8.8,26.943246,AMA 426 (Q500)
+8.75x9.25NN,LP088925NN,4.48,In Stock,9.25,8.75,24.94745,Pylon Racing
+8.75x9.25W,LP088925W,4.48,In Stock,9.25,8.75,24.94745,Pylon Racing
+8.8x9.5,LP088950,4.48,In Stock,9.5,8.8,26.081425,Pylon Racing
+8.75x9.5NN,LP08895NN,4.48,Discontinued,9.5,8.75,24.94745,Pylon Racing
+8.8x9.75,LP088975,4.48,In Stock,9.75,8.8,26.081425,Pylon Racing
+9x10,LP09010,3.35,In Stock,10.0,9.0,22.135192,Sport
+9x3,LP09030,3.35,In Stock,3.0,9.0,24.94745,"Sport, Pylon Combat"
+9x3N,LP09030N,3.35,In Stock,3.0,9.0,15.013828999999998,Pylon Combat
+9x3.7SF,LP09037SF,3.08,In Stock,3.7,9.0,4.989489999999999,Indoor 3D
+9x3.8SF,LP09038SF,3.08,In Stock,3.8,9.0,9.0718,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+9x3.8SF-B4,LP09038SF-B4,9.83,In Stock,3.8,9.0,36.2872,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+9x3.8SFP,LP09038SFP,3.08,In Stock,3.8,9.0,9.0718,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+9x4,LP09040,3.35,In Stock,4.0,9.0,22.951653999999998,"Free Flight, Sport"
+9x4M-LH,LP09040M-LH,7.95,In Stock,4.0,9.0,33.973890999999995,Marine
+9x4.1SF,LP09041SF,3.08,In Stock,4.1,9.0,4.989489999999999,Indoor 3D
+9x4.4SFR,LP09044SFR,3.08,In Stock,4.4,9.0,6.531695999999999,"Indoor 3D, Reversible ESC (Slow Fly)"
+9x4.5E,LP09045E,3.22,In Stock,4.5,9.0,17.962164,Thin Electric
+9x4.5EP,LP09045EP,3.22,In Stock,4.5,9.0,17.962164,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+9x4.5MR,LP09045MR,2.94,In Stock,4.5,9.0,11.067596,Multi Rotor (Electric Only)
+9x4.5MR(ST),LP09045MR(ST),3.29,In Stock,4.5,9.0,14.015931,Self Tightening
+9x4.5MR-B4,LP09045MR-B4,9.4,In Stock,4.5,9.0,44.270384,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+9x4.5MRF-L(B),LP09045MRF-L(B),4.15,In Stock,4.5,9.0,9.978979999999998,"Multi Rotor (Electric Only), MR Folding"
+9x4.5MRF-LH,LP09045MRF-LH,4.37,In Stock,4.5,9.0,8.981082,"Multi Rotor (Electric Only), MR Folding"
+9x4.5MRF-R(B),LP09045MRF-R(B),4.15,In Stock,4.5,9.0,9.978979999999998,"Multi Rotor (Electric Only), MR Folding"
+9x4.5MRF-RH,LP09045MRF-RH,4.37,In Stock,4.5,9.0,8.981082,"Multi Rotor (Electric Only), MR Folding"
+9x4.5MRP,LP09045MRP,2.94,In Stock,4.5,9.0,11.067596,Multi Rotor (Electric Only)
+9x4.5MRP(ST),LP09045MRP(ST),3.29,In Stock,4.5,9.0,14.015931,Self Tightening
+9x4.5R-LH,LP09045R-LH,4.82,In Stock,4.5,9.0,26.036065999999998,"Multi Rotor (Electric Only), 3D - Reversible ESC"
+9x4.5R-RH,LP09045R-RH,4.82,In Stock,4.5,9.0,26.036065999999998,"Multi Rotor (Electric Only), 3D - Reversible ESC"
+9x4.6SF,LP09046SF,3.08,In Stock,4.6,9.0,4.989489999999999,Indoor 3D
+9x4.7SF,LP09047SF,3.08,In Stock,4.7,9.0,9.0718,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+9x4.7SF-B4,LP09047SF-B4,9.83,In Stock,4.7,9.0,36.2872,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+9x4.7SFP,LP09047SFP,3.08,In Stock,4.7,9.0,9.0718,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+9x5,LP09050,3.35,In Stock,5.0,9.0,22.135192,"Free Flight, Sport"
+9x5F,LP09050F,4.54,In Stock,5.0,9.0,9.933620999999999,Folding (Electric Only)
+9x5FP,LP09050FP,4.54,In Stock,5.0,9.0,9.933620999999999,Folding (Electric Only)
+9x5M-JK,LP09050M-JK,13.9,In Stock,5.0,9.0,49.985618,Marine
+9x6,LP09060,3.35,In Stock,6.0,9.0,22.135192,"Sport, AMA 424 (Sport Q500)"
+9x6E,LP09060E,3.22,In Stock,6.0,9.0,18.007523,Thin Electric
+9x6EP,LP09060EP,3.22,In Stock,6.0,9.0,18.007523,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+9x6N,LP09060N,3.35,In Stock,6.0,9.0,17.871446,Control Line Racing
+9x6P,LP09060P,3.35,In Stock,6.0,9.0,22.135192,"Sport, Pusher (for IC Engines)"
+9x6SF,LP09060SF,3.08,In Stock,6.0,9.0,9.0718,Slow Fly (Electric Only)
+9x6.5,LP09065,4.48,In Stock,6.5,9.0,30.073016999999997,Pylon Racing
+9x7,LP09070,3.35,In Stock,7.0,9.0,22.951653999999998,Sport
+9x7.5,LP09075,4.48,In Stock,7.5,9.0,30.073016999999997,Pylon Racing
+9x7.5C,LP09075C,23.5,Discontinued,7.5,9.0,20.139396,"Pylon Racing, Carbon Fiber"
+9x7.5E,LP09075E,3.22,In Stock,7.5,9.0,18.007523,Thin Electric
+9x7.5EP,LP09075EP,3.22,In Stock,7.5,9.0,18.007523,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+9x7.5SF,LP09075SF,3.08,In Stock,7.5,9.0,9.933620999999999,Slow Fly (Electric Only)
+9x8,LP09080,3.35,In Stock,8.0,9.0,24.085629,Sport
+9x8.5,LP09085,4.48,In Stock,8.5,9.0,30.073016999999997,Pylon Racing
+9x9,LP09090,3.35,In Stock,9.0,9.0,24.085629,Sport
+9x9E,LP09090E,3.22,In Stock,9.0,9.0,18.007523,Thin Electric
+9x9EP,LP09090EP,3.22,In Stock,9.0,9.0,18.007523,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+9.3x3,LP09330,3.35,In Stock,3.0,9.3,24.94745,Pylon Combat
+9.25x5.0,LP09350,4.48,Discontinued,5.0,9.25,17.009625,Pylon Racing
+9.25x5.25,LP09353,4.48,Discontinued,5.25,9.25,17.009625,Pylon Racing
+9.25x5.5,LP09355,4.48,Discontinued,5.5,9.25,17.009625,Pylon Racing
+9.25x5.75,LP09358,4.48,Discontinued,5.75,9.25,17.009625,Pylon Racing
+9.25x6.0,LP09360,4.48,In Stock,6.0,9.25,17.009625,Pylon Racing
+9.5x4.5,LP09545,3.35,In Stock,4.5,9.5,28.077220999999998,"Free Flight, Sport"
+9.5x5MR-P3,LP09550MR-P3,6.24,In Stock,5.0,9.5,24.04027,Multi Rotor (Electric Only)
+9.5x5MRP-P3,LP09550MRP-P3,6.24,In Stock,5.0,9.5,24.04027,Multi Rotor (Electric Only)
+9.5x6,LP09560,3.35,In Stock,6.0,9.5,26.943246,Sport
+9.5x6.5N,LP09565N,4.48,Discontinued,6.5,9.5,28.939041999999997,Pylon Racing
+9.5x7N,LP09570N,4.48,In Stock,7.0,9.5,28.939041999999997,Pylon Racing
+9.5x7.5N,LP09575N,4.48,In Stock,7.5,9.5,28.939041999999997,Pylon Racing
+9.5x8N,LP09580N,4.48,Discontinued,8.0,9.5,28.077220999999998,Pylon Racing
+9.5x8.5N,LP09585N,4.48,Discontinued,8.5,9.5,28.939041999999997,Pylon Racing
+9.625x3.75N,LP09638N,3.8,In Stock,3.75,9.625,30.889478999999994,Free Flight
+10x10,LP10010,3.8,In Stock,10.0,10.0,36.015046,Sport
+10x10C,LP10010C,27.5,In Stock,10.0,10.0,25.990706999999997,"Pylon Racing, Carbon Fiber, Warbird Racing"
+10x10E,LP10010E,3.64,In Stock,10.0,10.0,20.003318999999998,Thin Electric
+10x10EP,LP10010EP,3.64,In Stock,10.0,10.0,20.003318999999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+10x10M-JK,LP10010M-JK,15.9,In Stock,10.0,10.0,70.986835,Marine
+10x12WE,LP10012WE,3.69,In Stock,12.0,10.0,21.999115,Thin Electric
+10x14EP,LP10014EP,5.21,In Stock,14.0,10.0,28.984401,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+10x14M-LH,LP10014M-LH,15.9,In Stock,14.0,10.0,70.986835,Marine
+10x3,LP10030,3.8,In Stock,3.0,10.0,26.081425,Sport
+10x3.8MRF-LH,LP10038MRF-LH,3.92,In Stock,3.8,10.0,9.978979999999998,"Multi Rotor (Electric Only), MR Folding"
+10x3.8MRF-RH,LP10038MRF-RH,3.92,In Stock,3.8,10.0,9.978979999999998,"Multi Rotor (Electric Only), MR Folding"
+10x3.8SF,LP10038SF,3.47,In Stock,3.8,10.0,11.929416999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+10x3.8SF-B4,LP10038SF-B4,11.1,In Stock,3.8,10.0,47.717667999999996,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+10x3.8SFP,LP10038SFP,3.47,In Stock,3.8,10.0,11.929416999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+10x4,LP10040,3.8,In Stock,4.0,10.0,30.073016999999997,Sport
+10x4M-LH,LP10040M-LH,7.95,In Stock,4.0,10.0,39.008739999999996,Marine
+10x4P,LP10040P,4.15,In Stock,4.0,10.0,30.980196999999997,"Sport, Pusher (for IC Engines), Marine"
+10x4.5MR,LP10045MR,3.32,In Stock,4.5,10.0,15.013828999999998,Multi Rotor (Electric Only)
+10x4.5MR(ST),LP10045MR(ST),3.69,In Stock,4.5,10.0,16.011726999999997,Self Tightening
+10x4.5MR(ST2A),LP10045MR(ST2A),7.32,In Stock,4.5,10.0,32.023453999999994,Self Tightening
+10x4.5MR-B4,LP10045MR-B4,10.64,In Stock,4.5,10.0,60.05531599999999,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+10x4.5MRF-L(B),LP10045MRF-L(B),4.48,In Stock,4.5,10.0,12.020135,"Multi Rotor (Electric Only), MR Folding"
+10x4.5MRF-LH,LP10045MRF-LH,4.82,In Stock,4.5,10.0,12.020135,"Multi Rotor (Electric Only), MR Folding"
+10x4.5MRF-R(B),LP10045MRF-R(B),4.48,In Stock,4.5,10.0,12.020135,"Multi Rotor (Electric Only), MR Folding"
+10x4.5MRF-RH,LP10045MRF-RH,4.82,In Stock,4.5,10.0,12.020135,"Multi Rotor (Electric Only), MR Folding"
+10x4.5MRP,LP10045MRP,3.32,In Stock,4.5,10.0,15.013828999999998,Multi Rotor (Electric Only)
+10x4.5MRP(ST),LP10045MRP(ST),3.69,In Stock,4.5,10.0,16.011726999999997,Self Tightening
+10x4.5MRP(ST2A),LP10045MRP(ST2A),7.32,In Stock,4.5,10.0,32.023453999999994,Self Tightening
+10x4.6SF,LP10046SF,3.39,In Stock,4.6,10.0,7.983184,Indoor 3D
+10x4.7SF,LP10047SF,3.47,In Stock,4.7,10.0,11.929416999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+10x4.7SF-B4,LP10047SF-B4,11.1,In Stock,4.7,10.0,47.717667999999996,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+10x4.7SFP,LP10047SFP,3.47,In Stock,4.7,10.0,11.929416999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+10x5,LP10050,3.8,In Stock,5.0,10.0,28.077220999999998,Sport
+10x5E,LP10050E,3.64,In Stock,5.0,10.0,20.003318999999998,Thin Electric
+10x5EP,LP10050EP,3.64,In Stock,5.0,10.0,20.003318999999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+10x5M-LH,LP10050M-LH,7.95,In Stock,5.0,10.0,35.017148,Marine
+10x5.5MR,LP10055MR,3.32,In Stock,5.5,10.0,15.013828999999998,Multi Rotor (Electric Only)
+10x5.5MR-B4,LP10055MR-B4,10.64,In Stock,5.5,10.0,60.05531599999999,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+10x5.5MRP,LP10055MRP,3.32,In Stock,5.5,10.0,15.013828999999998,Multi Rotor (Electric Only)
+10x5.8EP(F2B),LP10058EP(F2B),4.98,In Stock,5.8,10.0,19.005421,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Control Line (Electric Only)"
+10x6,LP10060,3.8,In Stock,6.0,10.0,28.939041999999997,Sport
+10x6E,LP10060E,3.64,In Stock,6.0,10.0,20.003318999999998,Thin Electric
+10x6EP,LP10060EP,3.64,In Stock,6.0,10.0,20.003318999999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+10x6F,LP10060F,5.07,In Stock,6.0,10.0,14.015931,Folding (Electric Only)
+10x6P,LP10060P,3.8,In Stock,6.0,10.0,28.939041999999997,"Sport, Pusher (for IC Engines)"
+10x7,LP10070,3.8,In Stock,7.0,10.0,30.889478999999994,Sport
+10x7E,LP10070E,3.64,In Stock,7.0,10.0,20.003318999999998,Thin Electric
+10x7EP,LP10070EP,3.64,In Stock,7.0,10.0,20.003318999999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+10x7P,LP10070P,3.8,In Stock,7.0,10.0,30.889478999999994,"Sport, Pusher (for IC Engines)"
+10x7SF,LP10070SF,3.47,In Stock,7.0,10.0,11.929416999999999,Slow Fly (Electric Only)
+10x8,LP10080,3.8,In Stock,8.0,10.0,28.939041999999997,Sport
+10x8E,LP10080E,3.64,In Stock,8.0,10.0,20.003318999999998,Thin Electric
+10x8M-LH,LP10080M-LH,8.45,In Stock,8.0,10.0,35.017148,Marine
+10x8P,LP10080P,3.8,In Stock,8.0,10.0,28.939041999999997,"Sport, Pusher (for IC Engines)"
+10x9,LP10090,3.8,In Stock,9.0,10.0,32.88527499999999,Sport
+10.5x4.5,LP10545,3.98,In Stock,4.5,10.5,30.073016999999997,"Free Flight, Sport"
+10.5x6,LP10560,3.98,In Stock,6.0,10.5,34.881071,Sport
+11x10,LP11010,4.44,In Stock,10.0,11.0,41.957074999999996,"Sport, Pattern"
+11x10E,LP11010E,4.17,In Stock,10.0,11.0,22.997013,Thin Electric
+11x11,LP11011,4.44,In Stock,11.0,11.0,41.957074999999996,"Sport, Pattern"
+11x12,LP11012,4.44,In Stock,12.0,11.0,41.957074999999996,"Sport, Pattern"
+11x12E,LP11012E,4.17,In Stock,12.0,11.0,25.990706999999997,Thin Electric
+11x12W,LP11012W,4.44,Discontinued,12.0,11.0,43.091049999999996,Sport
+11x13,LP11013,4.44,In Stock,13.0,11.0,41.095254,"Sport, Pattern"
+11x13EP,LP11013EP,4.96,In Stock,13.0,11.0,25.990706999999997,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+11x14,LP11014,4.44,In Stock,14.0,11.0,39.144816999999996,"Sport, Pattern"
+11x3,LP11030,4.44,In Stock,3.0,11.0,39.144816999999996,Sport
+11x3.8SF,LP11038SF,3.99,In Stock,3.8,11.0,15.013828999999998,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+11x3.8SF-B4,LP11038SF-B4,12.77,In Stock,3.8,11.0,60.05531599999999,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+11x3.8SFP,LP11038SFP,3.99,In Stock,3.8,11.0,15.013828999999998,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+11x4,LP11040,4.44,In Stock,4.0,11.0,39.144816999999996,Sport
+11x4.5EP,LP11045EP,4.17,In Stock,4.5,11.0,24.94745,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Control Line (Electric Only)"
+11x4.5MR,LP11045MR,3.83,In Stock,4.5,11.0,17.009625,Multi Rotor (Electric Only)
+11x4.5MR(ST),LP11045MR(ST),4.25,In Stock,4.5,11.0,20.003318999999998,Self Tightening
+11x4.5MR-B4,LP11045MR-B4,12.27,In Stock,4.5,11.0,68.0385,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+11x4.5MRP,LP11045MRP,3.83,In Stock,4.5,11.0,17.009625,Multi Rotor (Electric Only)
+11x4.5MRP(ST),LP11045MRP(ST),4.25,In Stock,4.5,11.0,20.003318999999998,Self Tightening
+11x4.6SF,LP11046SF,3.99,In Stock,4.6,11.0,11.022236999999999,Indoor 3D
+11x4.7SF,LP11047SF,3.99,In Stock,4.7,11.0,15.013828999999998,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+11x4.7SF-B4,LP11047SF-B4,12.77,In Stock,4.7,11.0,60.05531599999999,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+11x4.7SFP,LP11047SFP,3.99,In Stock,4.7,11.0,15.013828999999998,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+11x5,LP11050,4.44,In Stock,5.0,11.0,39.144816999999996,Sport
+11x5.5E,LP11055E,4.17,In Stock,5.5,11.0,22.997013,Thin Electric
+11x5.5EP,LP11055EP,4.17,In Stock,5.5,11.0,22.997013,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Control Line (Electric Only)"
+11x5.5MR,LP11055MR,3.83,In Stock,5.5,11.0,17.009625,Multi Rotor (Electric Only)
+11x5.5MR-B4,LP11055MR-B4,12.27,In Stock,5.5,11.0,68.0385,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+11x5.5MRP,LP11055MRP,3.83,In Stock,5.5,11.0,17.009625,Multi Rotor (Electric Only)
+11x5.5R-RH,LP11055R-RH,4.17,In Stock,5.5,11.0,22.997013,"Thin Electric, Reversible ESC"
+11x6,LP11060,4.44,In Stock,6.0,11.0,39.961279,Sport
+11x6M-LH,LP11060M-LH,9.95,In Stock,6.0,11.0,49.985618,Marine
+11x6P,LP11060P,4.44,In Stock,6.0,11.0,39.961279,"Sport, Pusher (for IC Engines)"
+11x7,LP11070,4.44,In Stock,7.0,11.0,39.961279,Sport
+11x7E,LP11070E,4.17,In Stock,7.0,11.0,22.997013,Thin Electric
+11x7P,LP11070P,4.44,In Stock,7.0,11.0,39.961279,"Sport, Pusher (for IC Engines)"
+11x7SF,LP11070SF,3.99,In Stock,7.0,11.0,15.013828999999998,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+11x7SFP,LP11070SFP,3.99,In Stock,7.0,11.0,15.013828999999998,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+11x8,LP11080,4.44,In Stock,8.0,11.0,41.095254,Sport
+11x8E,LP11080E,4.17,In Stock,8.0,11.0,22.997013,Thin Electric
+11x8EP,LP11080EP,4.17,In Stock,8.0,11.0,22.997013,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+11x8F,LP11080F,5.75,In Stock,8.0,11.0,17.009625,Folding (Electric Only)
+11x8.5E,LP11085E,4.17,In Stock,8.5,11.0,23.994911,Thin Electric
+11x9,LP11090,4.44,In Stock,9.0,11.0,41.957074999999996,Sport
+11x9C,LP11090C,27.5,In Stock,9.0,11.0,31.978094999999996,"Sport, Carbon Fiber, Pattern, Pattern Carbon Fiber"
+11.5x12.5N,LP115125N,5.39,Discontinued,12.5,11.5,39.144816999999996,"Sport, Pattern"
+11.5x4,LP11540,5.39,In Stock,4.0,11.5,41.095254,"Sport, Control Line"
+11.5x6,LP11560,5.39,In Stock,6.0,11.5,45.086846,"Sport, Control Line"
+12x10,LP12010,5.39,In Stock,10.0,12.0,45.948667,"Sport, Pattern"
+12x10E,LP12010E,4.87,In Stock,10.0,12.0,25.990706999999997,Thin Electric
+12x10W,LP12010W,5.39,In Stock,10.0,12.0,51.890696,"Sport, Pattern"
+12x11,LP12011,5.39,In Stock,11.0,12.0,47.082642,"Sport, Pattern"
+12x11.5,LP120115,5.39,Discontinued,11.5,12.0,45.086846,"Sport, Pattern"
+12x11N,LP12011N,5.39,Discontinued,11.0,12.0,45.086846,"Sport, Pattern"
+12x12,LP12012,5.39,In Stock,12.0,12.0,51.028875,"Sport, Pattern"
+12x12.5,LP120125,5.39,Discontinued,12.5,12.0,47.899103999999994,"Sport, Pattern"
+12x12E,LP12012E,4.87,In Stock,12.0,12.0,25.990706999999997,Thin Electric
+12x12EP,LP12012EP,4.87,In Stock,12.0,12.0,25.990706999999997,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+12x12N,LP12012N,5.39,In Stock,12.0,12.0,45.948667,"Sport, Pattern, Warbird Racing"
+12x13,LP12013,5.39,In Stock,13.0,12.0,45.086846,"Sport, Pattern"
+12x13N,LP12013N,5.39,In Stock,13.0,12.0,47.082642,"Sport, Pattern"
+12x14,LP12014,5.39,In Stock,14.0,12.0,45.948667,"Sport, Pattern"
+12x3.8SF,LP12038SF,4.66,In Stock,3.8,12.0,17.871446,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+12x3.8SF-B4,LP12038SF-B4,14.91,In Stock,3.8,12.0,71.485784,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+12x3.8SFP,LP12038SFP,4.66,In Stock,3.8,12.0,17.871446,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+12x4,LP12040,5.39,In Stock,4.0,12.0,39.961279,Sport
+12x4.5MR,LP12045MR,4.48,In Stock,4.5,12.0,22.135192,Multi Rotor (Electric Only)
+12x4.5MR(ST),LP12045MR(ST),4.94,In Stock,4.5,12.0,23.994911,Self Tightening
+12x4.5MR-B4,LP12045MR-B4,14.33,In Stock,4.5,12.0,88.540768,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+12x4.5MRF-L(B),LP12045MRF-L(B),6.04,In Stock,4.5,12.0,17.009625,"Multi Rotor (Electric Only), MR Folding"
+12x4.5MRF-R(B),LP12045MRF-R(B),6.04,In Stock,4.5,12.0,17.009625,"Multi Rotor (Electric Only), MR Folding"
+12x4.5MRP,LP12045MRP,4.48,In Stock,4.5,12.0,22.135192,Multi Rotor (Electric Only)
+12x4.5MRP(ST),LP12045MRP(ST),4.94,In Stock,4.5,12.0,23.994911,Self Tightening
+12x4.7SF,LP12047SF,4.66,In Stock,4.7,12.0,17.871446,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+12x4.7SF-B4,LP12047SF-B4,14.91,In Stock,4.7,12.0,71.485784,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), Slow Fly (Electric Only)"
+12x4.7SFP,LP12047SFP,4.66,In Stock,4.7,12.0,17.871446,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+12x5,LP12050,5.39,In Stock,5.0,12.0,41.095254,Sport
+12x5.5MR,LP12055MR,4.48,In Stock,5.5,12.0,22.135192,Multi Rotor (Electric Only)
+12x5.5MR-B4,LP12055MR-B4,14.33,In Stock,5.5,12.0,88.540768,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+12x5.5MRP,LP12055MRP,4.48,In Stock,5.5,12.0,22.135192,Multi Rotor (Electric Only)
+12x5.8SF,LP12058SF,4.66,In Stock,5.8,12.0,14.015931,Indoor 3D
+12x6,LP12060,5.39,In Stock,6.0,12.0,45.948667,Sport
+12x6E,LP12060E,4.87,In Stock,6.0,12.0,26.988604999999996,Thin Electric
+12x6EP,LP12060EP,4.87,In Stock,6.0,12.0,26.988604999999996,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+12x6EP(F2B),LP12060EP(F2B),6.71,In Stock,6.0,12.0,22.951653999999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Control Line (Electric Only)"
+12x6P,LP12060P,5.39,In Stock,6.0,12.0,45.948667,"Sport, Pusher (for IC Engines)"
+12x6SF,LP12060SF,4.66,In Stock,6.0,12.0,19.005421,Slow Fly (Electric Only)
+12x6.5WEP(F2B),LP12065WEP(F2B),6.71,Discontinued,6.5,12.0,41.095254,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Control Line (Electric Only)"
+12x7,LP12070,5.39,In Stock,7.0,12.0,43.091049999999996,Sport
+12x8,LP12080,5.39,In Stock,8.0,12.0,47.899103999999994,Sport
+12x8E,LP12080E,4.87,In Stock,8.0,12.0,25.990706999999997,Thin Electric
+12x8EP,LP12080EP,4.87,In Stock,8.0,12.0,25.990706999999997,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+12x8SF,LP12080SF,4.66,In Stock,8.0,12.0,19.005421,Slow Fly (Electric Only)
+12x8.5F,LP12085F,6.53,In Stock,8.5,12.0,21.001217,Folding (Electric Only)
+12x9,LP12090,5.39,In Stock,9.0,12.0,43.952870999999995,"Sport, Pattern"
+12x9W,LP12090W,5.39,In Stock,9.0,12.0,53.024671,"Sport, Pattern"
+12.25x3.75,LP12338,6.09,In Stock,3.75,12.25,43.091049999999996,"Sport, Control Line"
+12.5x10,LP12510,7.25,In Stock,10.0,12.5,51.028875,"Sport, Pattern"
+12.5x11,LP12511,7.25,Discontinued,11.0,12.5,51.890696,"Sport, Pattern"
+12.5x11.5,LP125115,7.25,Discontinued,11.5,12.5,53.024671,"Sport, Pattern"
+12.5x12,LP12512,7.25,Discontinued,12.0,12.5,53.024671,"Sport, Pattern"
+12.5x12.5,LP125125,7.25,Discontinued,12.5,12.5,53.886492,"Sport, Pattern"
+12.5x13,LP12513,7.25,Discontinued,13.0,12.5,55.020467,"Sport, Pattern"
+12.5x6,LP12560,6.24,In Stock,6.0,12.5,53.024671,Sport
+12.5x9,LP12590,7.25,Discontinued,9.0,12.5,51.028875,"Sport, Pattern"
+13x10,LP13010,7.25,In Stock,10.0,13.0,60.100675,"Sport, Pattern"
+13x10E,LP13010E,5.73,In Stock,10.0,13.0,29.982299,Thin Electric
+13x10EP,LP13010EP,5.73,In Stock,10.0,13.0,29.982299,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+13x10F,LP13010F,7.48,In Stock,10.0,13.0,24.94745,Folding (Electric Only)
+13x11,LP13011,7.25,In Stock,11.0,13.0,56.97090399999999,"Sport, Pattern, Warbird Racing"
+13x13.5N,LP130135N,7.25,In Stock,13.5,13.0,51.890696,"Sport, Pattern, Warbird Racing"
+13x13N,LP13013N,7.25,In Stock,13.0,13.0,53.024671,"Sport, Pattern, Warbird Racing"
+13x14,LP13014,10.26,In Stock,14.0,13.0,65.997345,"Sport, Warbird Racing"
+13x4,LP13040,7.25,In Stock,4.0,13.0,49.8949,Sport
+13x4E,LP13040E,5.73,In Stock,4.0,13.0,29.982299,Thin Electric
+13x4EP,LP13040EP,5.73,In Stock,4.0,13.0,29.982299,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+13x4W,LP13040W,7.25,In Stock,4.0,13.0,49.8949,"Sport, 3D Fun Fly"
+13x4.5EP,LP13045EP,5.73,In Stock,4.5,13.0,30.889478999999994,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Control Line (Electric Only)"
+13x4.5EP(F2B),LP13045EP(F2B),8.22,In Stock,4.5,13.0,24.085629,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Control Line (Electric Only)"
+13x4.5MR,LP13045MR,5.27,In Stock,4.5,13.0,24.085629,Multi Rotor (Electric Only)
+13x4.5MR-B4,LP13045MR-B4,16.87,In Stock,4.5,13.0,95.979644,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+13x4.5MRP,LP13045MRP,5.27,In Stock,4.5,13.0,24.085629,Multi Rotor (Electric Only)
+13x4.7SF,LP13047SF,5.49,In Stock,4.7,13.0,22.135192,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+13x4.7SFP,LP13047SFP,5.49,In Stock,4.7,13.0,22.135192,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+13x5.5E,LP13055E,5.73,In Stock,5.5,13.0,31.978094999999996,Thin Electric
+13x5.5EP,LP13055EP,5.73,In Stock,5.5,13.0,34.01925,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Control Line (Electric Only)"
+13x5.5MR,LP13055MR,5.27,In Stock,5.5,13.0,23.994911,Multi Rotor (Electric Only)
+13x5.5MR-B4,LP13055MR-B4,16.87,In Stock,5.5,13.0,95.979644,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW)"
+13x5.5MRF-L(B),LP13055MRF-L(B),6.56,In Stock,5.5,13.0,21.999115,"Multi Rotor (Electric Only), MR Folding"
+13x5.5MRF-R(B),LP13055MRF-R(B),6.56,In Stock,5.5,13.0,21.999115,"Multi Rotor (Electric Only), MR Folding"
+13x5.5MRP,LP13055MRP,5.27,In Stock,5.5,13.0,23.994911,Multi Rotor (Electric Only)
+13x6,LP13060,7.25,In Stock,6.0,13.0,47.899103999999994,Sport
+13x6P,LP13060P,7.25,In Stock,6.0,13.0,47.899103999999994,"Sport, Pusher (for IC Engines)"
+13x6.5E,LP13065E,5.73,In Stock,6.5,13.0,29.982299,Thin Electric
+13x6.5E(F2B),LP13065E(F2B),5.73,In Stock,6.5,13.0,24.992809,"Thin Electric, Control Line (Electric Only)"
+13x6.5EP,LP13065EP,5.73,In Stock,6.5,13.0,29.982299,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+13x7,LP13070,7.25,In Stock,7.0,13.0,47.899103999999994,Sport
+13x7F,LP13070F,7.48,In Stock,7.0,13.0,24.94745,Folding (Electric Only)
+13x8,LP13080,7.25,In Stock,8.0,13.0,49.033079,Sport
+13x8E,LP13080E,5.73,In Stock,8.0,13.0,30.980196999999997,Thin Electric
+13x8EP,LP13080EP,5.73,In Stock,8.0,13.0,30.980196999999997,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+13x9,LP13090,7.25,In Stock,9.0,13.0,60.962495999999994,"Sport, Pattern"
+13.5x10,LP13510,10.26,In Stock,10.0,13.5,51.028875,"Sport, Pattern"
+13.5x11.5N,LP135115N,10.26,Discontinued,11.5,13.5,51.890696,"Sport, Pattern"
+13.5x12.5,LP135125,10.26,Discontinued,12.5,13.5,68.900321,"Sport, Pattern"
+13.5x13.3,LP135133,10.26,Discontinued,13.3,13.5,64.908729,"Sport, Pattern"
+13.5x13.5,LP135135,10.26,In Stock,13.5,13.5,66.90452499999999,"Sport, Pattern, Warbird Racing"
+13.5x14,LP13514,10.26,In Stock,14.0,13.5,66.90452499999999,"Sport, Pattern, Warbird Racing"
+13.5x14W,LP13514W,10.26,Discontinued,14.0,13.5,83.052329,"Sport, Pattern"
+13.5x9,LP13590,10.26,In Stock,9.0,13.5,49.033079,"Sport, Pattern"
+14x10,LP14010,10.26,In Stock,10.0,14.0,73.98052899999999,Sport
+14x10E,LP14010E,6.79,In Stock,10.0,14.0,34.01925,Thin Electric
+14x10EP,LP14010EP,6.79,In Stock,10.0,14.0,34.01925,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+14x10F,LP14010F,8.73,In Stock,10.0,14.0,30.073016999999997,Folding (Electric Only)
+14x10FP,LP14010FP,8.73,In Stock,10.0,14.0,30.073016999999997,Folding (Electric Only)
+14x11,LP14011,10.26,In Stock,11.0,14.0,72.846554,"Sport, Pattern, Warbird Racing"
+14x12,LP14012,10.26,In Stock,12.0,14.0,77.1103,"Sport, Pattern"
+14x12E,LP14012E,6.79,In Stock,12.0,14.0,35.017148,Thin Electric
+14x12N,LP14012N,10.26,In Stock,12.0,14.0,66.995243,"Sport, Pattern"
+14x13,LP14013,10.26,In Stock,13.0,14.0,68.900321,"Sport, Pattern"
+14x13.5,LP140135,10.26,In Stock,13.5,14.0,70.034296,"Sport, Pattern"
+14x13.5N,LP140135N,10.26,Discontinued,13.5,14.0,64.908729,"Sport, Pattern"
+14x13M,LP14013M,27.95,In Stock,13.0,14.0,113.987167,Marine
+14x13N,LP14013N,10.26,In Stock,13.0,14.0,68.900321,"Sport, Pattern, Warbird Racing"
+14x14,LP14014,10.26,In Stock,14.0,14.0,68.0385,"Sport, Pattern"
+14x14E,LP14014E,6.79,In Stock,14.0,14.0,36.015046,Thin Electric
+14x14N,LP14014N,10.26,In Stock,14.0,14.0,68.900321,"Sport, Pattern, Warbird Racing"
+14x17M,LP14017M,16.25,In Stock,17.0,14.0,100.016595,Marine
+14x4W,LP14040W,10.26,In Stock,4.0,14.0,56.154441999999996,"Sport, 3D Fun Fly"
+14x4.7SF,LP14047SF,6.52,In Stock,4.7,14.0,24.94745,"Multi Rotor (Electric Only), Slow Fly (Electric Only)"
+14x4.7SFP,LP14047SFP,6.52,In Stock,4.7,14.0,24.94745,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation)"
+14x5N,LP14050N,10.26,In Stock,5.0,14.0,49.8949,Sport
+14x5.5MR,LP14055MR,6.23,In Stock,5.5,14.0,30.073016999999997,Multi Rotor (Electric Only)
+14x5.5MRP,LP14055MRP,6.23,In Stock,5.5,14.0,30.073016999999997,Multi Rotor (Electric Only)
+14x6,LP14060,10.26,In Stock,6.0,14.0,71.21363,Sport
+14x6E,LP14060E,6.79,In Stock,6.0,14.0,34.01925,Thin Electric
+14x6P,LP14060P,10.26,In Stock,6.0,14.0,77.1103,"Sport, Pusher (for IC Engines)"
+14x7,LP14070,10.26,In Stock,7.0,14.0,77.1103,Sport
+14x7E,LP14070E,6.79,In Stock,7.0,14.0,34.01925,Thin Electric
+14x7EP,LP14070EP,6.79,In Stock,7.0,14.0,34.01925,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+14x8,LP14080,10.26,In Stock,8.0,14.0,70.034296,Sport
+14x8.5E,LP14085E,6.79,In Stock,8.5,14.0,37.012944,Thin Electric
+14x8.5EP,LP14085EP,6.79,In Stock,8.5,14.0,37.012944,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+14.4x10.5,LP144105,11.9,Discontinued,10.5,14.4,73.98052899999999,"Sport, Pattern"
+14.4x12,LP14412,11.9,Discontinued,12.0,14.4,75.114504,"Sport, Pattern"
+14.4x13,LP14413,11.9,Discontinued,13.0,14.4,85.048125,"Sport, Pattern"
+14.4x13.5,LP144135,11.9,Discontinued,13.5,14.4,85.048125,"Sport, Pattern"
+14.4x14,LP14414,11.9,Discontinued,14.0,14.4,81.918354,"Sport, Pattern"
+14.5x13W,LP14513W,11.9,Discontinued,13.0,14.5,100.06195399999999,"Sport, Pattern"
+14.5x14.5N,LP145145N,11.9,Discontinued,14.5,14.5,64.092267,"Sport, Pattern"
+14.5x14N,LP14514N,11.9,Discontinued,14.0,14.5,62.096470999999994,"Sport, Pattern"
+15x10,LP15010,13.6,In Stock,10.0,15.0,89.856179,"Sport, Pattern"
+15x10E,LP15010E,8.05,In Stock,10.0,15.0,44.996128,Thin Electric
+15x10EP,LP15010EP,8.05,In Stock,10.0,15.0,44.996128,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+15x10EP-T,LP15010EP-T,8.62,In Stock,10.0,15.0,44.996128,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), T-Mount"
+15x10E-T,LP15010E-T,8.62,In Stock,10.0,15.0,44.996128,"Thin Electric, T-Mount"
+15x11,LP15011,13.6,In Stock,11.0,15.0,90.99015399999999,"Sport, Pattern"
+15x12,LP15012,13.6,In Stock,12.0,15.0,90.99015399999999,"Sport, Pattern"
+15x12F,LP15012F,10.32,Discontinued,12.0,15.0,37.149021,Folding (Electric Only)
+15x12W,LP15012W,13.6,Discontinued,12.0,15.0,100.06195399999999,"Sport, Pattern"
+15x13,LP15013,13.6,Discontinued,13.0,15.0,90.99015399999999,"Sport, Pattern"
+15x13N,LP15013N,13.6,Discontinued,13.0,15.0,70.89611699999999,"Sport, Pattern"
+15x14,LP15014,13.6,Discontinued,14.0,15.0,92.98594999999999,"Sport, Pattern"
+15x14N,LP15014N,13.6,Discontinued,14.0,15.0,72.846554,"Sport, Pattern"
+15x4E,LP15040E,8.05,In Stock,4.0,15.0,43.99823,Thin Electric
+15x4EP,LP15040EP,8.05,In Stock,4.0,15.0,43.99823,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+15x4W,LP15040W,13.6,In Stock,4.0,15.0,70.034296,"Sport, 3D Fun Fly"
+15x5.5MR,LP15055MR,7.36,In Stock,5.5,15.0,36.015046,Multi Rotor (Electric Only)
+15x5.5MRP,LP15055MRP,7.36,In Stock,5.5,15.0,36.015046,Multi Rotor (Electric Only)
+15x6,LP15060,13.6,In Stock,6.0,15.0,75.976325,Sport
+15x6E,LP15060E,8.05,In Stock,6.0,15.0,44.996128,Thin Electric
+15x7,LP15070,13.6,In Stock,7.0,15.0,77.1103,Sport
+15x7E,LP15070E,8.05,In Stock,7.0,15.0,44.996128,Thin Electric
+15x7EP-T,LP15070EP-T,8.62,In Stock,7.0,15.0,43.99823,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), T-Mount"
+15x7E-T,LP15070E-T,8.62,In Stock,7.0,15.0,43.99823,"Thin Electric, T-Mount"
+15x8,LP15080,13.6,In Stock,8.0,15.0,86.00066399999999,"Sport, Pattern"
+15x8E,LP15080E,8.05,In Stock,8.0,15.0,43.99823,Thin Electric
+15x8P,LP15080P,13.6,In Stock,8.0,15.0,86.00066399999999,"Sport, Pusher (for IC Engines)"
+15.5x11.5W,LP155115W,14.16,Discontinued,11.5,15.5,106.049342,"Sport, Pattern"
+15.5x12,LP15512,14.16,Discontinued,12.0,15.5,106.049342,"Sport, Pattern"
+15.5x12.5W,LP155125W,14.16,Discontinued,12.5,15.5,104.053546,"Sport, Pattern"
+15.5x12W,LP15512W,14.16,Discontinued,12.0,15.5,104.915367,"Sport, Pattern"
+15.5x13N,LP15513N,14.16,Discontinued,13.0,15.5,72.846554,"Sport, Pattern"
+16x10,LP16010,17.0,In Stock,10.0,16.0,104.915367,"Sport, Pattern"
+16x10E,LP16010E,9.54,In Stock,10.0,16.0,51.981413999999994,Thin Electric
+16x10EP,LP16010EP,9.54,In Stock,10.0,16.0,51.981413999999994,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+16x11,LP16011,17.0,Discontinued,11.0,16.0,106.049342,"Sport, Pattern"
+16x12,LP16012,17.0,In Stock,12.0,16.0,102.91957099999999,"Sport, Pattern"
+16x12E,LP16012E,9.54,In Stock,12.0,16.0,51.981413999999994,Thin Electric
+16x13,LP16013,17.0,In Stock,13.0,16.0,106.049342,"Sport, Pattern"
+16x13N,LP16013N,17.0,Discontinued,13.0,16.0,79.106096,"Sport, Pattern"
+16x14,LP16014,17.0,In Stock,14.0,16.0,104.915367,"Sport, Pattern"
+16x14N,LP16014N,17.0,Discontinued,14.0,16.0,104.915367,"Sport, Pattern"
+16x14P,LP16014P,17.0,In Stock,14.0,16.0,104.915367,"Sport, Pusher (for IC Engines)"
+16x15,LP16015,17.0,Discontinued,15.0,16.0,106.049342,"Sport, Pattern"
+16x16,LP16016,17.0,In Stock,16.0,16.0,104.053546,"Sport, Pattern"
+16x4E,LP16040E,9.54,In Stock,4.0,16.0,55.020467,Thin Electric
+16x4EP,LP16040EP,9.54,In Stock,4.0,16.0,55.020467,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+16x4W,LP16040W,17.0,In Stock,4.0,16.0,85.048125,"Sport, 3D Fun Fly"
+16x5.5MR,LP16055MR,8.73,In Stock,5.5,16.0,43.952870999999995,Multi Rotor (Electric Only)
+16x5.5MRP,LP16055MRP,8.73,In Stock,5.5,16.0,43.952870999999995,Multi Rotor (Electric Only)
+16x5.5MRP-ST,LP16055MRP-ST,9.3,In Stock,5.5,16.0,45.994026,Self Tightening
+16x5.5MRP-T,LP16055MRP-T,9.3,In Stock,5.5,16.0,43.00033199999999,"Multi Rotor (Electric Only), T-Mount"
+16x5.5MR-ST,LP16055MR-ST,9.3,In Stock,5.5,16.0,45.994026,Self Tightening
+16x5.5MR-T,LP16055MR-T,9.3,In Stock,5.5,16.0,43.00033199999999,"Multi Rotor (Electric Only), T-Mount"
+16x6,LP16060,17.0,In Stock,6.0,16.0,89.856179,Sport
+16x6E,LP16060E,9.54,In Stock,6.0,16.0,50.983515999999995,Thin Electric
+16x7,LP16070,17.0,In Stock,7.0,16.0,94.981746,Sport
+16x7C,LP16070C,75.08,In Stock,7.0,16.0,73.98052899999999,"Sport, Thin Electric, Multi Rotor (Electric Only)"
+16x7CP,LP16070CP,75.08,In Stock,7.0,16.0,73.98052899999999,"Sport, Pusher (for IC Engines), Electric Reverse Rotation (Left Hand Rotation), Multi Rotor (Electric Only)"
+16x7E(3D),LP16070E(3D),9.54,In Stock,7.0,16.0,45.994026,Thin Electric
+16x8,LP16080,17.0,In Stock,8.0,16.0,100.92377499999999,"Sport, Pattern"
+16x8E,LP16080E,9.54,In Stock,8.0,16.0,51.981413999999994,Thin Electric
+16.5x12,LP16512,18.7,Discontinued,12.0,16.5,104.915367,"Sport, Pattern"
+16.5x12W,LP16512W,18.7,Discontinued,12.0,16.5,111.12955,"Sport, Pattern"
+16.5x13,LP16513,18.7,Discontinued,13.0,16.5,81.10189199999999,"Sport, Pattern"
+16.5x13W,LP16513W,18.7,Discontinued,13.0,16.5,109.99557499999999,"Sport, Pattern"
+16.5x14,LP16514,18.7,Discontinued,14.0,16.5,77.972121,"Sport, Pattern"
+16.5x5W,LP16550W,18.7,Discontinued,5.0,16.5,100.92377499999999,"Sport, 3D Fun Fly"
+17x10,LP17010,20.4,In Stock,10.0,17.0,115.121142,"Sport, Pattern"
+17x10E,LP17010E,11.29,In Stock,10.0,17.0,64.001549,Thin Electric
+17x10N,LP17010N,20.4,In Stock,10.0,17.0,98.11151699999999,"Sport, Pattern"
+17x10P,LP17010P,20.4,In Stock,10.0,17.0,115.121142,"Sport, Pusher (for IC Engines)"
+17x10WE,LP17010WE,11.29,In Stock,10.0,17.0,78.01747999999999,Thin Electric
+17x12,LP17012,20.4,Discontinued,12.0,17.0,119.929196,"Sport, Pattern"
+17x12.5N,LP170125N,20.4,Discontinued,12.5,17.0,100.06195399999999,"Sport, Pattern"
+17x12.75,LP170127,20.4,Discontinued,12.75,17.0,121.06317100000001,"Sport, Pattern"
+17x12E,LP17012E,11.29,In Stock,12.0,17.0,64.001549,Thin Electric
+17x12N,LP17012N,20.4,Discontinued,12.0,17.0,94.981746,"Sport, Pattern"
+17x12W,LP17012W,20.4,In Stock,12.0,17.0,132.947229,"Sport, Pattern"
+17x13,LP17013,20.4,In Stock,13.0,17.0,117.93339999999999,"Sport, Pattern"
+17x13N,LP17013N,20.4,Discontinued,13.0,17.0,94.119925,"Sport, Pattern"
+17x18,LP17018,21.54,Discontinued,18.0,17.0,182.97820599999997,Sport
+17x4W,LP17040W,20.4,In Stock,4.0,17.0,94.981746,"Sport, 3D Fun Fly"
+17x6,LP17060,20.4,In Stock,6.0,17.0,111.991371,"Sport, IMAC Aerobatic"
+17x6E,LP17060E,11.29,In Stock,6.0,17.0,64.001549,Thin Electric
+17x6P,LP17060P,20.4,In Stock,6.0,17.0,111.991371,"Sport, Pusher (for IC Engines)"
+17x7E,LP17070E,11.29,In Stock,7.0,17.0,64.001549,Thin Electric
+17x8,LP17080,20.4,In Stock,8.0,17.0,115.937604,"Sport, Pattern"
+17x8E,LP17080E,11.29,In Stock,8.0,17.0,64.001549,Thin Electric
+17x8EP,LP17080EP,11.29,In Stock,8.0,17.0,64.001549,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+17x8N,LP17080N,20.4,In Stock,8.0,17.0,94.119925,"Sport, Pattern"
+17.5x18,LP17518,22.67,Discontinued,18.0,17.5,184.02146299999998,Sport
+18x10,LP18010,23.8,In Stock,10.0,18.0,132.947229,Sport
+18x10E,LP18010E,13.29,In Stock,10.0,18.0,72.98263099999998,Thin Electric
+18x10EP,LP18010EP,13.29,In Stock,10.0,18.0,72.98263099999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+18x10P,LP18010P,23.8,In Stock,10.0,18.0,132.947229,"Sport, Pusher (for IC Engines)"
+18x10PN,LP18010PN,23.8,Discontinued,10.0,18.0,119.929196,"Sport, Pattern"
+18x11,LP18011,23.8,Discontinued,11.0,18.0,107.999779,"Sport, Pattern"
+18x11WPN,LP18011WPN,23.8,Discontinued,11.0,18.0,134.08120399999999,"Sport, Pattern"
+18x12,LP18012,23.8,In Stock,12.0,18.0,144.876646,Sport
+18x12E,LP18012E,13.29,In Stock,12.0,18.0,73.98052899999999,Thin Electric
+18x12WE,LP18012WE,13.29,In Stock,12.0,18.0,82.00907199999999,Thin Electric
+18x14,LP18014,23.8,In Stock,14.0,18.0,151.09082899999999,Sport
+18x16,LP18016,23.8,Discontinued,16.0,18.0,170.958071,Sport
+18x5.5MR,LP18055MR,12.16,In Stock,5.5,18.0,61.007855,Multi Rotor (Electric Only)
+18x5.5MRP,LP18055MRP,12.16,In Stock,5.5,18.0,61.007855,Multi Rotor (Electric Only)
+18x6W,LP18060W,23.8,In Stock,6.0,18.0,134.94302499999998,"Sport, 3D Fun Fly"
+18x6WP,LP18060WP,23.8,In Stock,6.0,18.0,134.94302499999998,"Sport, Pusher (for IC Engines), 3D Fun Fly"
+18x7WP,LP18070WP,29.5,In Stock,7.0,18.0,134.94302499999998,"Sport, Pusher (for IC Engines)"
+18x8,LP18080,23.8,In Stock,8.0,18.0,132.130767,Sport
+18x8E,LP18080E,13.29,In Stock,8.0,18.0,72.98263099999998,Thin Electric
+18x8EP,LP18080EP,13.29,In Stock,8.0,18.0,72.98263099999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+18x8W,LP18080W,23.8,In Stock,8.0,18.0,142.88084999999998,"Sport, IMAC Aerobatic"
+18.1x10,LP18110,23.8,In Stock,10.0,18.1,132.947229,Pattern
+18.1x10W,LP18110W,23.8,Discontinued,10.0,18.1,136.938821,Pattern
+18.1x11,LP18111,23.8,Discontinued,11.0,18.1,130.13497099999998,Pattern
+18.1x12,LP18112,23.8,In Stock,12.0,18.1,125.009404,Pattern
+18.5x10.25WPN,LP1851025WPN,27.06,Discontinued,10.25,18.5,138.07279599999998,Pattern
+18.5x12WPN,LP18512WPN,27.06,Discontinued,12.0,18.5,140.068592,Pattern
+18.5x9.5,LP18595,27.06,Discontinued,9.5,18.5,170.09625,Pattern
+19x10E,LP19010E,15.59,In Stock,10.0,19.0,83.00697,Thin Electric
+19x10EP,LP19010EP,15.59,In Stock,10.0,19.0,83.00697,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+19x11,LP19011,27.22,In Stock,11.0,19.0,132.130767,"Sport, Pattern"
+19x12E,LP19012E,15.59,In Stock,12.0,19.0,83.00697,Thin Electric
+19x12WE,LP19012WE,15.59,In Stock,12.0,19.0,111.991371,Thin Electric
+19x14,LP19014,27.22,Discontinued,14.0,19.0,187.10587499999997,Sport
+19x16,LP19016,27.22,Discontinued,16.0,19.0,187.967696,Sport
+19x8E,LP19080E,15.59,In Stock,8.0,19.0,83.00697,Thin Electric
+19x8W,LP19080W,27.22,In Stock,8.0,19.0,163.020246,"Sport, IMAC Aerobatic"
+19.5x11.5PN,LP195115PN,30.62,Discontinued,11.5,19.5,136.077,Pattern
+20x10,LP20010,30.62,In Stock,10.0,20.0,185.97189999999998,Sport
+20x10.5PN,LP200105PN,30.62,In Stock,10.5,20.0,157.894679,Pattern
+20x10.5PNC,LP200105PNC,85.05,In Stock,10.5,20.0,119.29417,"Carbon Fiber, Pattern, Pattern Carbon Fiber"
+20x10E,LP20010E,18.2,In Stock,10.0,20.0,95.979644,Thin Electric
+20x10EP,LP20010EP,18.2,In Stock,10.0,20.0,95.979644,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+20x10P,LP20010P,30.62,In Stock,10.0,20.0,185.97189999999998,"Sport, Pusher (for IC Engines)"
+20x10PN,LP20010PN,30.62,In Stock,10.0,20.0,168.10045399999998,Pattern
+20x10W,LP20010W,30.62,In Stock,10.0,20.0,202.11970399999998,"Sport, IMAC Aerobatic"
+20x11E,LP20011E,18.2,In Stock,11.0,20.0,99.01869699999999,Thin Electric
+20x12,LP20012,30.62,In Stock,12.0,20.0,191.097467,Sport
+20x12WE,LP20012WE,18.2,In Stock,12.0,20.0,110.993473,Thin Electric
+20x13E,LP20013E,18.2,In Stock,13.0,20.0,98.02079899999998,"Thin Electric, Multi Rotor (Electric Only)"
+20x13EP,LP20013EP,18.2,In Stock,13.0,20.0,98.02079899999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Multi Rotor (Electric Only)"
+20x14,LP20014,30.62,In Stock,14.0,20.0,199.987831,Sport
+20x15(WCAR-T6),LP20015(WCAR-T6),30.62,In Stock,15.0,20.0,197.901317,Giant Scale Racing
+20x15C,LP20015C,92.4,In Stock,15.0,20.0,151.09082899999999,"Carbon Fiber, Giant Scale Racing"
+20x15E,LP20015E,18.2,In Stock,15.0,20.0,98.02079899999998,Thin Electric
+20x16,LP20016,30.62,Discontinued,16.0,20.0,252.014604,Sport
+20x18,LP20018,30.62,Discontinued,18.0,20.0,258.001992,Sport
+20x18(F1-GT),LP20018(F1-GT),30.62,In Stock,18.0,20.0,216.044917,"Sport, Giant Scale Racing"
+20x22.5EP(CD),LP200225EP(CD),25.52,In Stock,22.5,20.0,94.981746,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+20x8,LP20080,30.62,In Stock,8.0,20.0,182.025667,Sport
+20x8E,LP20080E,18.2,In Stock,8.0,20.0,95.979644,Thin Electric
+20x8W,LP20080W,30.62,In Stock,8.0,20.0,193.047904,"Sport, IMAC Aerobatic"
+20.5x10.5PNC,LP205105PNC,85.05,In Stock,10.5,20.5,129.182432,"Carbon Fiber, Pattern, Pattern Carbon Fiber"
+20.5x10.5WPNC,LP205105WPNC,85.05,In Stock,10.5,20.5,129.998894,"Carbon Fiber, Pattern, Pattern Carbon Fiber"
+20.5x10PN,LP20510PN,30.62,In Stock,10.0,20.5,170.958071,Pattern
+20.5x10PNC,LP20510PNC,85.05,In Stock,10.0,20.5,129.182432,"Carbon Fiber, Pattern, Pattern Carbon Fiber"
+20.5x12WE,LP20512WE,18.2,In Stock,12.0,20.5,130.996792,Thin Electric
+20.5x13.5EPN,LP205135EPN,18.2,In Stock,13.5,20.5,101.014493,"Thin Electric, Pattern (Electric Only)"
+20.5x13.5EPNC,LP205135EPNC,55.57,In Stock,13.5,20.5,74.751632,"Thin Electric, Carbon Fiber (Electric Only), Pattern (Electric Only)"
+20.5x14E,LP20514E,18.2,In Stock,14.0,20.5,123.05896699999998,Thin Electric
+20.5x14EPN,LP20514EPN,18.2,In Stock,14.0,20.5,98.927979,"Thin Electric, Pattern (Electric Only)"
+20.5x14EPNC,LP20514EPNC,55.57,In Stock,14.0,20.5,74.751632,"Thin Electric, Carbon Fiber (Electric Only), Pattern (Electric Only), Multi Rotor (Electric Only)"
+20.5x14EPNCP,LP20514EPNCP,55.57,In Stock,14.0,20.5,74.751632,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Carbon Fiber (Electric Only), Pattern (Electric Only), Multi Rotor (Electric Only)"
+20.5x20.5E(CD),LP205205E(CD),25.52,In Stock,20.5,20.5,87.90574199999999,Thin Electric
+21x10.5PN,LP210105PN,34.19,In Stock,10.5,21.0,160.162629,Pattern
+21x10.5PNC,LP210105PNC,89.59,In Stock,10.5,21.0,121.01781199999998,"Carbon Fiber, Pattern, Pattern Carbon Fiber"
+21x10PN,LP21010PN,34.19,In Stock,10.0,21.0,164.01814399999998,Pattern
+21x10PNC,LP21010PNC,89.59,In Stock,10.0,21.0,123.92078799999999,"Carbon Fiber, Pattern, Pattern Carbon Fiber"
+21x10W,LP21010W,34.19,In Stock,10.0,21.0,225.116717,"Sport, IMAC Aerobatic"
+21x10WPN,LP21010WPN,34.19,Discontinued,10.0,21.0,170.958071,Pattern
+21x10WPNC,LP21010WPNC,89.59,In Stock,10.0,21.0,129.182432,"Carbon Fiber, Pattern, Pattern Carbon Fiber"
+21x12WE,LP21012WE,21.09,In Stock,12.0,21.0,126.007302,Thin Electric
+21x13.5EPNC,LP210135EPNC,55.57,In Stock,13.5,21.0,79.015378,"Thin Electric, Carbon Fiber (Electric Only), Pattern (Electric Only)"
+21x13E,LP21013E,21.09,In Stock,13.0,21.0,109.99557499999999,Thin Electric
+21x13WE,LP21013WE,21.09,In Stock,13.0,21.0,128.003098,Thin Electric
+21.5x10.5PN,LP215105PN,34.19,In Stock,10.5,21.5,180.98241,Pattern
+21.5x10.5PNC,LP215105PNC,89.59,In Stock,10.5,21.5,126.007302,"Carbon Fiber, Pattern, Pattern Carbon Fiber"
+21.5x10WPNC,LP21510WPNC,89.59,In Stock,10.0,21.5,128.003098,"Carbon Fiber, Pattern, Pattern Carbon Fiber"
+21.5x13EPNC,LP21513EPNC,55.57,In Stock,13.0,21.5,81.011174,"Thin Electric, Carbon Fiber (Electric Only), Pattern (Electric Only)"
+22x10,LP22010,37.99,In Stock,10.0,22.0,233.87100399999997,"Sport, Giant Scale Racing"
+22x10E,LP22010E,24.33,In Stock,10.0,22.0,133.990486,Thin Electric
+22x11E,LP22011E,24.33,Discontinued,11.0,22.0,120.019914,Thin Electric
+22x12E,LP22012E,24.33,In Stock,12.0,22.0,135.986282,Thin Electric
+22x12WE,LP22012WE,24.33,In Stock,12.0,22.0,157.98539699999998,Thin Electric
+22x13EPNC,LP22013EPNC,58.97,In Stock,13.0,22.0,86.00066399999999,"Thin Electric, Carbon Fiber (Electric Only), Pattern (Electric Only)"
+22x8,LP22080,37.99,In Stock,8.0,22.0,240.13054599999998,"Sport, Giant Scale Racing"
+24x12E,LP24012E,31.8,In Stock,12.0,24.0,164.01814399999998,Thin Electric
+24x12EP,LP24012EP,31.8,In Stock,12.0,24.0,164.01814399999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation)"
+25x12.5E,LP25125E,36.06,In Stock,12.5,25.0,223.12092099999998,Thin Electric
+26x13E,LP26013E,40.66,In Stock,13.0,26.0,209.01427199999998,Thin Electric
+26x15E,LP26015E,40.66,In Stock,15.0,26.0,214.003762,Thin Electric
+27x13E,LP27013E,45.64,In Stock,13.0,27.0,232.01128499999996,"Thin Electric, Multi Rotor (Electric Only)"
+27x13EP,LP27013EP,45.64,In Stock,13.0,27.0,232.01128499999996,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Multi Rotor (Electric Only)"
+28x20C(P-51),LP28020C(P-51),60.9,In Stock,20.0,28.0,121.01781199999998,"Carbon Fiber, Sport"
+20x14C,LP2B20014C,115.5,Discontinued,14.0,20.0,104.915367,Carbon Fiber
+22x12C,LP2C22012C,143.22,Discontinued,12.0,22.0,104.915367,Carbon Fiber
+4x4E-3-B4,LP304040E-B4,6.22,In Stock,4.0,4.0,15.966368,"Bundle (2 CW & 2 CCW), FPV Racing / Freestyle, 3 Bladed (Electric Only)"
+5x4E-3-B4,LP305040E-B4,6.22,In Stock,4.0,5.0,23.768116,"Bundle (2 CW & 2 CCW), FPV Racing / Freestyle, 3 Bladed (Electric Only)"
+9x6-3,LP309060,10.2,Discontinued,6.0,9.0,0.0,"Sport, 3 Bladed (for IC Engines)"
+9x8E-3,LP309080E,10.2,In Stock,8.0,9.0,25.990706999999997,"Thin Electric, 3 Bladed (Electric Only)"
+10x7-3,LP310070,11.33,Discontinued,7.0,10.0,0.0,"Sport, 3 Bladed (for IC Engines)"
+11x7E-3,LP311070E,12.46,In Stock,7.0,11.0,30.980196999999997,"Thin Electric, 3 Bladed (Electric Only)"
+12x7E-3,LP312070E,14.73,In Stock,7.0,12.0,39.008739999999996,"Thin Electric, 3 Bladed (Electric Only)"
+13.4x13.5-3,LP3134135,24.9,Discontinued,13.5,13.4,0.0,"Sport, Pattern, 3 Bladed (for IC Engines)"
+15x13W-3,LP3150130W,28.3,Discontinued,13.0,15.0,116.980861,"Sport, Pattern, 3 Bladed (for IC Engines)"
+15x13.5-3,LP3150135,28.3,In Stock,13.5,15.0,96.115721,"Sport, Pattern, 3 Bladed (for IC Engines)"
+15.75x13-3,LP3157513,29.43,In Stock,13.0,15.75,121.06317100000001,"Sport, Pattern, 3 Bladed (for IC Engines)"
+9x6-4,LP409060,10.2,In Stock,6.0,9.0,24.992809,"Sport, 4 Bladed (for IC Engines)"
+10x6-4,LP410060,11.33,In Stock,6.0,10.0,36.015046,"Sport, 4 Bladed (for IC Engines)"
+11x6-4,LP411060,12.46,In Stock,6.0,11.0,46.991924,"Sport, 4 Bladed (for IC Engines)"
+11x9-4,LP411090,12.46,In Stock,9.0,11.0,40.006637999999995,"Sport, 4 Bladed (for IC Engines)"
+13x13-4,LP413013,22.63,Discontinued,13.0,13.0,0.0,"Sport, Pattern, 4 Bladed (for IC Engines)"
+13.8x10-4,LP413810,24.9,Discontinued,10.0,13.8,0.0,"Sport, Pattern, 4 Bladed (for IC Engines)"
+14.5x11-4,LP414511,26.93,Discontinued,11.0,14.5,0.0,"Sport, Pattern, 4 Bladed (for IC Engines)"
+14.5x12-4,LP414512,26.93,Discontinued,12.0,14.5,117.978759,"Sport, Pattern, 4 Bladed (for IC Engines)"
+15x11-4,LP415011,28.3,Discontinued,11.0,15.0,0.0,"Sport, Pattern, 4 Bladed (for IC Engines)"
+15.5x12-4,LP415512,29.43,In Stock,12.0,15.5,119.929196,"Sport, Pattern, 4 Bladed (for IC Engines)"
+B4x3.3E-B4,LPB04033E-B4,5.63,In Stock,3.3,4.0,12.519084,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B4x4.5E-B4,LPB04045E-B4,5.63,In Stock,4.5,4.0,12.519084,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B5x3E-B4,LPB05030E-B4,5.63,In Stock,3.0,5.0,12.519084,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B5x4.3E-B4,LPB05043E-B4,5.63,In Stock,4.3,5.0,19.957959999999996,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B5x4.5E-B4,LPB05045E-B4,5.63,In Stock,4.5,5.0,19.957959999999996,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B5x4.6E-B4,LPB05046E-B4,5.63,In Stock,4.6,5.0,19.957959999999996,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B5x5E,LPB05050E,2.55,In Stock,5.0,5.0,3.991592,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Black FPV, Black MR, Black Speed 400"
+B5x5E-B4,LPB05050E-B4,5.63,In Stock,5.0,5.0,15.966368,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B5x5EP,LPB05050EP,2.55,In Stock,5.0,5.0,3.991592,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Black FPV, Black MR, Speed 400 Reverse Rotation (Left Hand Rotation), Black Speed 400"
+B5.5x4.5E,LPB05545E,2.55,In Stock,4.5,5.5,3.991592,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Black FPV, Black MR, Black Speed 400"
+B5.5x4.5E-B4,LPB05545E-B4,5.63,In Stock,4.5,5.5,15.966368,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B5.5x4.5EP,LPB05545EP,2.55,In Stock,4.5,5.5,3.991592,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Black FPV, Black MR, Speed 400 Reverse Rotation (Left Hand Rotation), Black Speed 400"
+B6x4E,LPB06040E,2.59,In Stock,4.0,6.0,5.125566999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Black FPV, Black MR, Black Speed 400"
+B6x4E-B4,LPB06040E-B4,6.05,In Stock,4.0,6.0,20.502267999999997,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B6x4EP,LPB06040EP,2.59,In Stock,4.0,6.0,5.125566999999999,"Multi Rotor (Electric Only), FPV Racing / Freestyle, Speed 400 (Electric Only), Black FPV, Black MR, Speed 400 Reverse Rotation (Left Hand Rotation), Black Speed 400"
+B6x4.5E-B4,LPB06045E-B4,6.05,In Stock,4.5,6.0,28.304015999999997,"Bundle (2 CW & 2 CCW), Black FPV, Black MR"
+B6x5.5E,LPB06055E,2.59,In Stock,5.5,6.0,5.125566999999999,"Thin Electric, Black Thin Electric"
+B6x6E,LPB06060E,2.59,In Stock,6.0,6.0,4.989489999999999,"Thin Electric, Multi Rotor (Electric Only), Black MR, Black Thin Electric"
+B6x6E-B4,LPB06060E-B4,6.05,In Stock,6.0,6.0,20.502267999999997,"Bundle (2 CW & 2 CCW), Black MR"
+B6x6EP,LPB06060EP,2.59,In Stock,6.0,6.0,4.989489999999999,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation), Black MR, Black Thin Electric"
+B7x4E,LPB07040E,2.71,In Stock,4.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only), Black MR, Black Thin Electric"
+B7x4E-B4,LPB07040E-B4,7.06,In Stock,4.0,7.0,31.932736,"Bundle (2 CW & 2 CCW), Black MR"
+B7x4EP,LPB07040EP,2.71,In Stock,4.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation), Black MR, Black Thin Electric"
+B7x5E,LPB07050E,2.71,In Stock,5.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only), Black MR, Black Thin Electric"
+B7x5E-B4,LPB07050E-B4,7.06,In Stock,5.0,7.0,31.932736,"Bundle (2 CW & 2 CCW), Black MR"
+B7x5EP,LPB07050EP,2.71,In Stock,5.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation), Black MR, Black Thin Electric"
+B7x6E,LPB07060E,2.71,In Stock,6.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only), Black MR, Black Thin Electric"
+B7x6E-B4,LPB07060E-B4,7.06,In Stock,6.0,7.0,31.932736,"Bundle (2 CW & 2 CCW), Black MR"
+B7x6EP,LPB07060EP,2.71,In Stock,6.0,7.0,7.983184,"Thin Electric, Multi Rotor (Electric Only), Electric Reverse Rotation (Left Hand Rotation), Black MR, Black Thin Electric"
+B7x7E,LPB07070E,2.71,In Stock,7.0,7.0,7.983184,"Thin Electric, Black Thin Electric"
+B8x3.8SF,LPB08038SF,2.78,In Stock,3.8,8.0,7.076003999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Black MR, Black SF"
+B8x3.8SFP,LPB08038SFP,2.78,In Stock,3.8,8.0,7.076003999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation), Black MR, Black SF"
+B8x4E,LPB08040E,2.92,In Stock,4.0,8.0,13.018032999999999,"Thin Electric, Black Thin Electric"
+B8x4.1SF,LPB08041SF,2.78,In Stock,4.1,8.0,4.490541,Indoor 3D
+B8x4.5MR-B4,LPB08045MR-B4,8.56,In Stock,4.5,8.0,36.2872,"Bundle (2 CW & 2 CCW), Black MR"
+B8x4.7SF,LPB08047SF,2.78,In Stock,4.7,8.0,7.076003999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Black MR, Black SF"
+B8x4.7SFP,LPB08047SFP,2.78,In Stock,4.7,8.0,7.076003999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Slow Fly Reverse Rotation (Left Hand Rotation), Black MR, Black SF"
+B8x6E,LPB08060E,2.92,In Stock,6.0,8.0,14.015931,"Thin Electric, Black Thin Electric"
+B8x6EP,LPB08060EP,2.92,In Stock,6.0,8.0,14.015931,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B8x8E,LPB08080E,2.92,In Stock,8.0,8.0,15.013828999999998,"Thin Electric, Black Thin Electric"
+B9x3.8SF-B4,LPB09038SF-B4,9.83,In Stock,3.8,9.0,36.2872,"Bundle (2 CW & 2 CCW), Slow Fly (Electric Only), Black MR, Black SF"
+B9x4.5E,LPB09045E,3.22,In Stock,4.5,9.0,17.962164,"Thin Electric, Black Thin Electric"
+B9x4.5MR-B4,LPB09045MR-B4,9.4,In Stock,4.5,9.0,44.270384,"Bundle (2 CW & 2 CCW), Black MR"
+B9x4.7SF,LPB09047SF,3.08,In Stock,4.7,9.0,9.0718,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Black MR, Black SF"
+B9x6E,LPB09060E,3.22,In Stock,6.0,9.0,18.007523,"Thin Electric, Black Thin Electric"
+B9x6SF,LPB09060SF,3.08,In Stock,6.0,9.0,9.0718,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Black MR, Black SF"
+B9x7.5E,LPB09075E,3.22,In Stock,7.5,9.0,18.007523,"Thin Electric, Black Thin Electric"
+B9x9E,LPB09090E,3.22,In Stock,9.0,9.0,18.007523,"Thin Electric, Black Thin Electric"
+B10x10E,LPB10010E,3.64,In Stock,10.0,10.0,20.003318999999998,"Thin Electric, Black Thin Electric"
+B10x4.5MR-B4,LPB10045MR-B4,10.64,In Stock,4.5,10.0,60.05531599999999,"Bundle (2 CW & 2 CCW), Black MR"
+B10x4.7SF,LPB10047SF,3.47,In Stock,4.7,10.0,11.929416999999999,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Black MR, Black SF"
+B10x5E,LPB10050E,3.64,In Stock,5.0,10.0,20.003318999999998,"Thin Electric, Black Thin Electric"
+B10x5EP,LPB10050EP,3.64,In Stock,5.0,10.0,20.003318999999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B10x5.5MR-B4,LPB10055MR-B4,10.64,In Stock,5.5,10.0,60.05531599999999,"Bundle (2 CW & 2 CCW), Black MR"
+B10x6E,LPB10060E,3.64,In Stock,6.0,10.0,20.003318999999998,"Thin Electric, Black Thin Electric"
+B10x7E,LPB10070E,3.64,In Stock,7.0,10.0,20.003318999999998,"Thin Electric, Black Thin Electric"
+B10x7EP,LPB10070EP,3.64,In Stock,7.0,10.0,20.003318999999998,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B10x8E,LPB10080E,3.64,In Stock,8.0,10.0,20.003318999999998,"Thin Electric, Black Thin Electric"
+B11x10E,LPB11010E,4.17,In Stock,10.0,11.0,22.997013,"Thin Electric, Black Thin Electric"
+B11x4.5MR-B4,LPB11045MR-B4,12.27,In Stock,4.5,11.0,68.0385,"Bundle (2 CW & 2 CCW), Black MR"
+B11x4.7SF,LPB11047SF,3.99,In Stock,4.7,11.0,15.013828999999998,"Multi Rotor (Electric Only), Slow Fly (Electric Only), Black MR, Black SF"
+B11x5.5E,LPB11055E,4.17,In Stock,5.5,11.0,22.997013,"Thin Electric, Black Thin Electric"
+B11x5.5EP,LPB11055EP,4.17,In Stock,5.5,11.0,22.997013,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B11x5.5MR-B4,LPB11055MR-B4,12.27,In Stock,5.5,11.0,68.0385,"Bundle (2 CW & 2 CCW), Black MR"
+B11x7E,LPB11070E,4.17,In Stock,7.0,11.0,22.997013,"Thin Electric, Black Thin Electric"
+B11x8E,LPB11080E,4.17,In Stock,8.0,11.0,22.997013,"Thin Electric, Black Thin Electric"
+B11x8EP,LPB11080EP,4.17,In Stock,8.0,11.0,22.997013,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B11x8.5E,LPB11085E,4.17,In Stock,8.5,11.0,23.994911,"Thin Electric, Black Thin Electric"
+B12x10E,LPB12010E,4.87,In Stock,10.0,12.0,25.990706999999997,"Thin Electric, Black Thin Electric"
+B12x12E,LPB12012E,4.87,In Stock,12.0,12.0,25.990706999999997,"Thin Electric, Black Thin Electric"
+B12x12EP,LPB12012EP,4.87,In Stock,12.0,12.0,25.990706999999997,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B12x6E,LPB12060E,4.87,In Stock,6.0,12.0,26.988604999999996,"Thin Electric, Black Thin Electric"
+B12x6EP,LPB12060EP,4.87,In Stock,6.0,12.0,26.988604999999996,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B12x8E,LPB12080E,4.87,In Stock,8.0,12.0,25.990706999999997,"Thin Electric, Black Thin Electric"
+B12x8EP,LPB12080EP,4.87,In Stock,8.0,12.0,25.990706999999997,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B13x4E,LPB13040E,5.73,In Stock,4.0,13.0,29.982299,"Thin Electric, Black Thin Electric"
+B13x4EP,LPB13040EP,5.73,In Stock,4.0,13.0,29.982299,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B13x6.5E,LPB13065E,5.73,In Stock,6.5,13.0,29.982299,"Thin Electric, Black Thin Electric"
+B13x8E,LPB13080E,5.73,In Stock,8.0,13.0,30.980196999999997,"Thin Electric, Black Thin Electric"
+B13x8EP,LPB13080EP,5.73,In Stock,8.0,13.0,30.980196999999997,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric"
+B14x10E,LPB14010E,6.79,In Stock,10.0,14.0,36.015046,"Thin Electric, Black Thin Electric"
+B14x10EP-T,LPB14010EP-T,7.36,In Stock,10.0,14.0,36.015046,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric, T-Mount"
+B14x10E-T,LPB14010E-T,7.36,In Stock,10.0,14.0,36.015046,"Thin Electric, Black Thin Electric, T-Mount"
+B14x12E,LPB14012E,6.79,In Stock,12.0,14.0,35.017148,"Thin Electric, Black Thin Electric"
+B14x8.5E,LPB14085E,6.79,In Stock,8.5,14.0,37.012944,"Thin Electric, Black Thin Electric, Multi Rotor (Electric Only)"
+B14x8.5EP,LPB14085EP,6.79,In Stock,8.5,14.0,37.012944,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric, Multi Rotor (Electric Only)"
+B14x8.5EP-T,LPB14085EP-T,7.36,In Stock,8.5,14.0,37.012944,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric, T-Mount"
+B14x8.5E-T,LPB14085E-T,7.36,In Stock,8.5,14.0,37.012944,"Thin Electric, Black Thin Electric, T-Mount"
+B15x10E,LPB15010E,8.05,In Stock,10.0,15.0,44.996128,"Thin Electric, Black Thin Electric"
+B15x12EP-T,LPB15012EP-T,8.62,In Stock,12.0,15.0,43.99823,"Thin Electric, Electric Reverse Rotation (Left Hand Rotation), Black Thin Electric, T-Mount"
+B15x12E-T,LPB15012E-T,8.62,In Stock,12.0,15.0,43.99823,"Thin Electric, Black Thin Electric, T-Mount"
+B15x5.5MRP-T,LPB15055MRP-T,7.95,In Stock,5.5,15.0,36.015046,"Multi Rotor (Electric Only), T-Mount"
+B15x5.5MR-T,LPB15055MR-T,7.95,In Stock,5.5,15.0,36.015046,"Multi Rotor (Electric Only), T-Mount"
+B15x8E,LPB15080E,8.05,In Stock,8.0,15.0,43.99823,"Thin Electric, Black Thin Electric"
+B18x5.5MRP-T,LPB18055MRP-T,13.2,In Stock,5.5,18.0,61.007855,"Multi Rotor (Electric Only), T-Mount"
+B18x5.5MR-T,LPB18055MR-T,13.2,In Stock,5.5,18.0,61.007855,"Multi Rotor (Electric Only), T-Mount"
+B4x4E-3-B4,LPB304040E-B4,6.22,In Stock,4.0,4.0,15.966368,"Bundle (2 CW & 2 CCW), 3 Bladed (Electric Only), Black FPV, Black MR"
+B5x4E-3-B4,LPB305040E-B4,6.22,In Stock,4.0,5.0,23.768116,"Bundle (2 CW & 2 CCW), 3 Bladed (Electric Only), Black FPV, Black MR"
+B5x4E-4-B4,LPB405040E-B4,6.22,In Stock,4.0,5.0,27.941143999999998,"Bundle (2 CW & 2 CCW), Black FPV, 4 Bladed (Electric Only), Black MR"
+BD5.1x5.0E-B4,LPBD05150E-B4,3.96,In Stock,5.0,5.1,11.974775999999999,"Multi Rotor (Electric Only), Bundle (2 CW & 2 CCW), FPV Racing / Freestyle, Black FPV, Black MR, Durable FPV"
+BD8x3.7SFR,LPBD08037SFR,2.49,In Stock,3.7,8.0,5.987387999999999,"Indoor 3D, Reversible ESC (Slow Fly)"
+BD9x3.9SFR,LPBD09039SFR,2.76,In Stock,3.9,9.0,7.620311999999999,"Indoor 3D, Reversible ESC (Slow Fly)"
+BD5x3.7E-3-B4,LPBD305037E-B4,4.07,In Stock,3.7,5.0,15.966368,"Bundle (2 CW & 2 CCW), FPV Racing / Freestyle, 3 Bladed (Electric Only), Black FPV, Black MR, Durable FPV"
+BD5x4E-3-B4,LPBD305040E-B4,4.07,In Stock,4.0,5.0,19.957959999999996,"Bundle (2 CW & 2 CCW), FPV Racing / Freestyle, 3 Bladed (Electric Only), Black FPV, Black MR, Durable FPV"
+BD5.1x5.0E-3-B4,LPBD305150E-B4,4.07,In Stock,5.0,5.1,15.966368,"Bundle (2 CW & 2 CCW), FPV Racing / Freestyle, 3 Bladed (Electric Only), Black FPV, Black MR, Durable FPV"
+BD6x4.2E-3-B4,LPBD306042E-B4,4.29,In Stock,4.2,6.0,19.957959999999996,"Bundle (2 CW & 2 CCW), FPV Racing / Freestyle, 3 Bladed (Electric Only), Black FPV, Black MR, Durable FPV"
+BD5x4E-4-B4,LPBD405040E-B4,4.29,In Stock,4.0,5.0,19.957959999999996,"Bundle (2 CW & 2 CCW), FPV Racing / Freestyle, Black FPV, 4 Bladed (Electric Only), Black MR, Durable FPV"
+O9x6E,LPO09060E,3.22,In Stock,6.0,9.0,18.007523,Thin Electric

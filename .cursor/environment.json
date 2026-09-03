@@ -1,0 +1,24 @@
+{
+  "name": "ECHO Optimization",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "user": "ubuntu",
+  "install": "bash scripts/cloud-agent-install.sh",
+  "terminals": [
+    {
+      "name": "api",
+      "description": "FastAPI backend on 127.0.0.1:43127",
+      "command": "bash scripts/cloud-agent-run-api.sh"
+    },
+    {
+      "name": "web",
+      "description": "Next.js frontend on 127.0.0.1:43128",
+      "command": "bash scripts/cloud-agent-run-web.sh"
+    }
+  ],
+  "ports": [
+    { "name": "api", "port": 43127 },
+    { "name": "web", "port": 43128 }
+  ]
+}

@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "drone-optimizer"
+version = "0.7.0"
+description = "Multidisciplinary quadrotor design evaluation and optimization."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.20",
+  "scipy>=1.7",
+  "pandas>=2.0",
+  "openmdao>=3.20.0",
+  "openpyxl>=3.1,<4",
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.30",
+  "pydantic>=2.0",
+]
+
+[project.optional-dependencies]
+ui = [
+  "streamlit>=1.37,<2",
+]
+dev = [
+  "pytest>=7.0",
+  "matplotlib>=3.4",
+  "httpx>=0.27",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["optimizer*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

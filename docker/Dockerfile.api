@@ -1,0 +1,17 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+RUN apt-get update && apt-get install -y --no-install-recommends build-essential && rm -rf /var/lib/apt/lists/*
+
+COPY pyproject.toml README.md ./
+COPY optimizer ./optimizer
+COPY backend ./backend
+
+RUN pip install --no-cache-dir -e ".[dev]"
+
+# PyThrust package + private datasets are expected at /data (mounted).
+ENV DRONE_OPTIMIZER_DATA_ROOT=/data
+ENV PYTHONPATH=/data:/app
+
+EXPOSE 43127
+CMD ["uvicorn", "backend.app.main:app", "--host", "0.0.0.0", "--port", "43127"]
